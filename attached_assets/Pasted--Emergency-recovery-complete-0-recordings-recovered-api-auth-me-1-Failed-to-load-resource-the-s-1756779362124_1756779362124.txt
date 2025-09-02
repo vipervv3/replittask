@@ -1,0 +1,77 @@
+🆘 Emergency recovery complete: 0 recordings recovered
+api/auth/me:1  Failed to load resource: the server responded with a status of 404 ()
+index-hbMKJP9s.js:438 AuthProvider rendering...
+index-hbMKJP9s.js:596 Showing login page...
+login:1 <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes">
+login:89 PWA: Install prompt available
+login:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+index-hbMKJP9s.js:596 Showing login page...
+index-hbMKJP9s.js:596  POST https://taskai-nine.vercel.app/api/auth/login 404 (Not Found)
+mutationFn @ index-hbMKJP9s.js:596
+fn @ index-hbMKJP9s.js:48
+g @ index-hbMKJP9s.js:48
+start @ index-hbMKJP9s.js:48
+execute @ index-hbMKJP9s.js:48
+await in execute
+mutate @ index-hbMKJP9s.js:48
+(anonymous) @ index-hbMKJP9s.js:48
+m @ index-hbMKJP9s.js:596
+(anonymous) @ index-hbMKJP9s.js:493
+await in (anonymous)
+qW @ index-hbMKJP9s.js:37
+KW @ index-hbMKJP9s.js:37
+GW @ index-hbMKJP9s.js:37
+FP @ index-hbMKJP9s.js:37
+e$ @ index-hbMKJP9s.js:37
+(anonymous) @ index-hbMKJP9s.js:37
+SN @ index-hbMKJP9s.js:40
+SI @ index-hbMKJP9s.js:37
+l0 @ index-hbMKJP9s.js:37
+Z1 @ index-hbMKJP9s.js:37
+u7 @ index-hbMKJP9s.js:37
+index-hbMKJP9s.js:596  POST https://taskai-nine.vercel.app/api/auth/register 404 (Not Found)
+mutationFn @ index-hbMKJP9s.js:596
+fn @ index-hbMKJP9s.js:48
+g @ index-hbMKJP9s.js:48
+start @ index-hbMKJP9s.js:48
+execute @ index-hbMKJP9s.js:48
+await in execute
+mutate @ index-hbMKJP9s.js:48
+(anonymous) @ index-hbMKJP9s.js:48
+m @ index-hbMKJP9s.js:596
+(anonymous) @ index-hbMKJP9s.js:493
+await in (anonymous)
+qW @ index-hbMKJP9s.js:37
+KW @ index-hbMKJP9s.js:37
+GW @ index-hbMKJP9s.js:37
+FP @ index-hbMKJP9s.js:37
+e$ @ index-hbMKJP9s.js:37
+(anonymous) @ index-hbMKJP9s.js:37
+SN @ index-hbMKJP9s.js:40
+SI @ index-hbMKJP9s.js:37
+l0 @ index-hbMKJP9s.js:37
+Z1 @ index-hbMKJP9s.js:37
+u7 @ index-hbMKJP9s.js:37
+index-hbMKJP9s.js:596  POST https://taskai-nine.vercel.app/api/auth/login 404 (Not Found)
+mutationFn @ index-hbMKJP9s.js:596
+fn @ index-hbMKJP9s.js:48
+g @ index-hbMKJP9s.js:48
+start @ index-hbMKJP9s.js:48
+execute @ index-hbMKJP9s.js:48
+await in execute
+mutate @ index-hbMKJP9s.js:48
+(anonymous) @ index-hbMKJP9s.js:48
+m @ index-hbMKJP9s.js:596
+(anonymous) @ index-hbMKJP9s.js:493
+await in (anonymous)
+qW @ index-hbMKJP9s.js:37
+KW @ index-hbMKJP9s.js:37
+GW @ index-hbMKJP9s.js:37
+FP @ index-hbMKJP9s.js:37
+e$ @ index-hbMKJP9s.js:37
+(anonymous) @ index-hbMKJP9s.js:37
+SN @ index-hbMKJP9s.js:40
+SI @ index-hbMKJP9s.js:37
+l0 @ index-hbMKJP9s.js:37
+Z1 @ index-hbMKJP9s.js:37
+u7 @ index-hbMKJP9s.js:37
