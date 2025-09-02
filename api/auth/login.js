@@ -12,29 +12,23 @@ module.exports = function handler(req, res) {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
-  try {
-    const { email, password } = req.body || {};
-    
-    if (!email || !password) {
-      return res.status(400).json({ error: "Email and password are required" });
-    }
-
-    // Test login - replace with real authentication later
-    if (email === 'omar_braham@wgresorts.com' && password === 'test123') {
-      return res.status(200).json({ 
-        user: { 
-          id: '1', 
-          email: email, 
-          name: 'Omar Braham',
-          username: 'omar_braham'
-        }, 
-        message: "Login successful" 
-      });
-    }
-
-    return res.status(401).json({ error: "Invalid email or password" });
-  } catch (error) {
-    console.error("Login error:", error);
-    return res.status(500).json({ error: "Login failed" });
+  const { email, password } = req.body || {};
+  
+  if (!email || !password) {
+    return res.status(400).json({ error: "Email and password are required" });
   }
+
+  if (email === 'omar_braham@wgresorts.com' && password === 'test123') {
+    return res.status(200).json({ 
+      user: { 
+        id: '1', 
+        email: email, 
+        name: 'Omar Braham',
+        username: 'omar_braham'
+      }, 
+      message: "Login successful" 
+    });
+  }
+
+  return res.status(401).json({ error: "Invalid email or password" });
 }
