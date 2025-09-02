@@ -10,11 +10,6 @@
       "use": "@vercel/node"
     }
   ],
-  "functions": {
-    "server/index.ts": {
-      "includeFiles": "server/**"
-    }
-  },
   "routes": [
     {
       "src": "/api/(.*)",
@@ -22,7 +17,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "/$1"
+      "handle": "filesystem"
     }
   ]
 }
