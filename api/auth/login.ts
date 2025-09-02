@@ -1,6 +1,7 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import { neon } from '@neondatabase/serverless';
 import bcrypt from 'bcrypt';
+import { generateToken } from './lib/jwt';
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   // Set CORS headers
@@ -26,14 +27,17 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 
     // Check for test credentials first (works without database)
     if (email === 'omar_braham@wgresorts.com' && password === 'test123') {
+      const user = { 
+        id: '1', 
+        email, 
+        name: 'Omar Braham',
+        createdAt: new Date().toISOString(),
+        role: 'admin'
+      };
+      const token = generateToken({ id: user.id, email: user.email, name: user.name, role: user.role });
       return res.status(200).json({
-        user: { 
-          id: '1', 
-          email, 
-          name: 'Omar Braham',
-          createdAt: new Date().toISOString(),
-          role: 'admin'
-        },
+        user,
+        token,
         message: 'Login successful (test mode)'
       });
     }
@@ -70,9 +74,16 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 
     // Don't send password in response
     const { password: _, ...userWithoutPassword } = user;
+    const token = generateToken({ 
+      id: userWithoutPassword.id, 
+      email: userWithoutPassword.email, 
+      name: userWithoutPassword.name, 
+      role: userWithoutPassword.role 
+    });
 
     return res.status(200).json({
       user: userWithoutPassword,
+      token,
       message: 'Login successful'
     });
 
@@ -82,14 +93,17 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     // If it's a database connection error, try test credentials
     const { email, password } = req.body;
     if (email === 'omar_braham@wgresorts.com' && password === 'test123') {
+      const user = { 
+        id: '1', 
+        email, 
+        name: 'Omar Braham',
+        createdAt: new Date().toISOString(),
+        role: 'admin'
+      };
+      const token = generateToken({ id: user.id, email: user.email, name: user.name, role: user.role });
       return res.status(200).json({
-        user: { 
-          id: '1', 
-          email, 
-          name: 'Omar Braham',
-          createdAt: new Date().toISOString(),
-          role: 'admin'
-        },
+        user,
+        token,
         message: 'Login successful (fallback mode)'
       });
     }

@@ -24,6 +24,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   console.log("AuthProvider rendering...");
   const [user, setUser] = useState<AuthUser | null>(null);
   const [isLoading, setIsLoading] = useState(true);
+  const [token, setToken] = useState<string | null>(() => localStorage.getItem('token'));
   const queryClient = useQueryClient();
 
   // Check authentication once on mount
@@ -34,11 +35,25 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       if (!mounted) return;
       
       try {
-        const response = await fetch("/api/auth/me", { credentials: "include" });
+        const storedToken = localStorage.getItem('token');
+        if (!storedToken) {
+          setUser(null);
+          if (window.location.pathname !== '/login') {
+            window.location.href = '/login';
+          }
+          return;
+        }
+
+        const response = await fetch("/api/auth/me", { 
+          headers: {
+            'Authorization': `Bearer ${storedToken}`
+          }
+        });
         if (response.ok && mounted) {
           const data = await response.json();
           setUser(data.user);
         } else if (mounted) {
+          localStorage.removeItem('token');
           setUser(null);
           if (window.location.pathname !== '/login') {
             window.location.href = '/login';
@@ -79,6 +94,12 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     },
     onSuccess: (data) => {
       setUser(data.user);
+      if (data.token) {
+        localStorage.setItem('token', data.token);
+        setToken(data.token);
+      }
+      // Redirect to dashboard after successful login
+      window.location.href = '/dashboard';
     },
   });
 
@@ -95,19 +116,24 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     },
     onSuccess: (data) => {
       setUser(data.user);
+      if (data.token) {
+        localStorage.setItem('token', data.token);
+        setToken(data.token);
+      }
+      // Redirect to dashboard after successful registration
+      window.location.href = '/dashboard';
     },
   });
 
   const logoutMutation = useMutation({
-    mutationFn: () => fetch("/api/auth/logout", { 
-      method: "POST", 
-      credentials: "include" 
-    }).then(res => {
-      if (!res.ok) throw new Error("Logout failed");
-      return res.json();
-    }),
+    mutationFn: () => {
+      // Just clear local storage, no need for server call with JWT
+      localStorage.removeItem('token');
+      return Promise.resolve();
+    },
     onSuccess: () => {
       setUser(null);
+      setToken(null);
       queryClient.clear();
       window.location.href = "/login";
     },
