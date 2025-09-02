@@ -8,5 +8,10 @@
         "distDir": "dist/public"
       }
     }
-  ]
+  ],
+  "functions": {
+    "api/*.js": {
+      "runtime": "@vercel/node@3"
+    }
+  }
 }
