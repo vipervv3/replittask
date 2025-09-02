@@ -1,0 +1,31 @@
+Root element found, attempting to render...
+main.tsx:50 Root element: Found
+main.tsx:68 App render called successfully
+App.tsx:200 App component rendering...
+useAuth.tsx:24 AuthProvider rendering...
+dashboard:227 PWA: Service Worker registered successfully ServiceWorkerRegistration {installing: null, waiting: null, active: ServiceWorker, navigationPreload: NavigationPreloadManager, scope: 'https://e996d604-832e-4243-bdcd-2b4f4e129dc6-00-do73ne2obqgq.picard.replit.dev/', …}
+dashboard:1 <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes">
+dashboard:240 PWA: Install prompt available
+dashboard:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+9useAuth.tsx:24 AuthProvider rendering...
+chunk-UC2UAQC4.js?v=77316129:337 Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+(anonymous) @ chunk-UC2UAQC4.js?v=77316129:337
+commitHookEffectListMount @ chunk-RPCDYKBN.js?v=77316129:16915
+commitPassiveMountOnFiber @ chunk-RPCDYKBN.js?v=77316129:18156
+commitPassiveMountEffects_complete @ chunk-RPCDYKBN.js?v=77316129:18129
+commitPassiveMountEffects_begin @ chunk-RPCDYKBN.js?v=77316129:18119
+commitPassiveMountEffects @ chunk-RPCDYKBN.js?v=77316129:18109
+flushPassiveEffectsImpl @ chunk-RPCDYKBN.js?v=77316129:19490
+flushPassiveEffects @ chunk-RPCDYKBN.js?v=77316129:19447
+commitRootImpl @ chunk-RPCDYKBN.js?v=77316129:19416
+commitRoot @ chunk-RPCDYKBN.js?v=77316129:19277
+performSyncWorkOnRoot @ chunk-RPCDYKBN.js?v=77316129:18895
+flushSyncCallbacks @ chunk-RPCDYKBN.js?v=77316129:9119
+(anonymous) @ chunk-RPCDYKBN.js?v=77316129:18627
+5useAuth.tsx:24 AuthProvider rendering...
+VoiceAssistantContext.tsx:93 🎤 Voice Assistant listening...
+2useAuth.tsx:24 AuthProvider rendering...
+VoiceAssistantContext.tsx:107 Speech recognition error: network
+recognition.onerror @ VoiceAssistantContext.tsx:107
+VoiceAssistantContext.tsx:146 🎤 Voice Assistant stopped listening
+16useAuth.tsx:24 AuthProvider rendering...

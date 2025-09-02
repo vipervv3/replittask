@@ -1,0 +1,218 @@
+=== DEBUG: HTML loaded, checking React mount ===
+client:536 WebSocket connection to 'wss://e996d604-832e-4243-bdcd-2b4f4e129dc6-00-do73ne2obqgq.picard.replit.dev/?token=cOAR2CAljI8y' failed: 
+setupWebSocket @ client:536
+(anonymous) @ client:531
+client:536 Uncaught (in promise) SyntaxError: Failed to construct 'WebSocket': The URL 'wss://localhost:undefined/?token=cOAR2CAljI8y' is invalid.
+    at setupWebSocket (client:536:19)
+    at fallback (client:509:16)
+    at WebSocket.<anonymous> (client:555:7)
+setupWebSocket @ client:536
+fallback @ client:509
+(anonymous) @ client:555
+chunk-RPCDYKBN.js?v=77316129:21551 Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+chunk-RPCDYKBN.js?v=57a9d818:21551 Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+main.tsx:6 Root element found, attempting to render...
+main.tsx:14 Root element: Found
+main.tsx:15 Using: Main App
+main.tsx:23 App render called successfully
+App.tsx:195 App component rendering...
+useAuth.tsx:24 Warning: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://reactjs.org/link/invalid-hook-call for tips about how to debug and fix this problem.
+printWarning @ chunk-QCHXOAYK.js?v=57a9d818:136
+error @ chunk-QCHXOAYK.js?v=57a9d818:120
+resolveDispatcher @ chunk-QCHXOAYK.js?v=57a9d818:1045
+useState @ chunk-QCHXOAYK.js?v=57a9d818:1065
+AuthProvider @ useAuth.tsx:24
+renderWithHooks @ chunk-RPCDYKBN.js?v=77316129:11548
+mountIndeterminateComponent @ chunk-RPCDYKBN.js?v=77316129:14926
+beginWork @ chunk-RPCDYKBN.js?v=77316129:15914
+beginWork$1 @ chunk-RPCDYKBN.js?v=77316129:19753
+performUnitOfWork @ chunk-RPCDYKBN.js?v=77316129:19198
+workLoopSync @ chunk-RPCDYKBN.js?v=77316129:19137
+renderRootSync @ chunk-RPCDYKBN.js?v=77316129:19116
+performConcurrentWorkOnRoot @ chunk-RPCDYKBN.js?v=77316129:18678
+workLoop @ chunk-RPCDYKBN.js?v=77316129:197
+flushWork @ chunk-RPCDYKBN.js?v=77316129:176
+performWorkUntilDeadline @ chunk-RPCDYKBN.js?v=77316129:384
+useAuth.tsx:24 Warning: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://reactjs.org/link/invalid-hook-call for tips about how to debug and fix this problem.
+printWarning @ chunk-QCHXOAYK.js?v=57a9d818:136
+error @ chunk-QCHXOAYK.js?v=57a9d818:120
+resolveDispatcher @ chunk-QCHXOAYK.js?v=57a9d818:1045
+useState @ chunk-QCHXOAYK.js?v=57a9d818:1065
+AuthProvider @ useAuth.tsx:24
+renderWithHooks @ chunk-RPCDYKBN.js?v=77316129:11548
+mountIndeterminateComponent @ chunk-RPCDYKBN.js?v=77316129:14926
+beginWork @ chunk-RPCDYKBN.js?v=77316129:15914
+callCallback2 @ chunk-RPCDYKBN.js?v=77316129:3674
+invokeGuardedCallbackDev @ chunk-RPCDYKBN.js?v=77316129:3699
+invokeGuardedCallback @ chunk-RPCDYKBN.js?v=77316129:3733
+beginWork$1 @ chunk-RPCDYKBN.js?v=77316129:19765
+performUnitOfWork @ chunk-RPCDYKBN.js?v=77316129:19198
+workLoopSync @ chunk-RPCDYKBN.js?v=77316129:19137
+renderRootSync @ chunk-RPCDYKBN.js?v=77316129:19116
+performConcurrentWorkOnRoot @ chunk-RPCDYKBN.js?v=77316129:18678
+workLoop @ chunk-RPCDYKBN.js?v=77316129:197
+flushWork @ chunk-RPCDYKBN.js?v=77316129:176
+performWorkUntilDeadline @ chunk-RPCDYKBN.js?v=77316129:384
+chunk-QCHXOAYK.js?v=57a9d818:1066 Uncaught TypeError: Cannot read properties of null (reading 'useState')
+    at useState (chunk-QCHXOAYK.js?v=57a9d818:1066:29)
+    at AuthProvider (useAuth.tsx:24:27)
+    at renderWithHooks (chunk-RPCDYKBN.js?v=77316129:11548:26)
+    at mountIndeterminateComponent (chunk-RPCDYKBN.js?v=77316129:14926:21)
+    at beginWork (chunk-RPCDYKBN.js?v=77316129:15914:22)
+    at HTMLUnknownElement.callCallback2 (chunk-RPCDYKBN.js?v=77316129:3674:22)
+    at Object.invokeGuardedCallbackDev (chunk-RPCDYKBN.js?v=77316129:3699:24)
+    at invokeGuardedCallback (chunk-RPCDYKBN.js?v=77316129:3733:39)
+    at beginWork$1 (chunk-RPCDYKBN.js?v=77316129:19765:15)
+    at performUnitOfWork (chunk-RPCDYKBN.js?v=77316129:19198:20)
+useState @ chunk-QCHXOAYK.js?v=57a9d818:1066
+AuthProvider @ useAuth.tsx:24
+renderWithHooks @ chunk-RPCDYKBN.js?v=77316129:11548
+mountIndeterminateComponent @ chunk-RPCDYKBN.js?v=77316129:14926
+beginWork @ chunk-RPCDYKBN.js?v=77316129:15914
+callCallback2 @ chunk-RPCDYKBN.js?v=77316129:3674
+invokeGuardedCallbackDev @ chunk-RPCDYKBN.js?v=77316129:3699
+invokeGuardedCallback @ chunk-RPCDYKBN.js?v=77316129:3733
+beginWork$1 @ chunk-RPCDYKBN.js?v=77316129:19765
+performUnitOfWork @ chunk-RPCDYKBN.js?v=77316129:19198
+workLoopSync @ chunk-RPCDYKBN.js?v=77316129:19137
+renderRootSync @ chunk-RPCDYKBN.js?v=77316129:19116
+performConcurrentWorkOnRoot @ chunk-RPCDYKBN.js?v=77316129:18678
+workLoop @ chunk-RPCDYKBN.js?v=77316129:197
+flushWork @ chunk-RPCDYKBN.js?v=77316129:176
+performWorkUntilDeadline @ chunk-RPCDYKBN.js?v=77316129:384
+App.tsx:195 App component rendering...
+useAuth.tsx:24 Warning: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://reactjs.org/link/invalid-hook-call for tips about how to debug and fix this problem.
+printWarning @ chunk-QCHXOAYK.js?v=57a9d818:136
+error @ chunk-QCHXOAYK.js?v=57a9d818:120
+resolveDispatcher @ chunk-QCHXOAYK.js?v=57a9d818:1045
+useState @ chunk-QCHXOAYK.js?v=57a9d818:1065
+AuthProvider @ useAuth.tsx:24
+renderWithHooks @ chunk-RPCDYKBN.js?v=77316129:11548
+mountIndeterminateComponent @ chunk-RPCDYKBN.js?v=77316129:14926
+beginWork @ chunk-RPCDYKBN.js?v=77316129:15914
+beginWork$1 @ chunk-RPCDYKBN.js?v=77316129:19753
+performUnitOfWork @ chunk-RPCDYKBN.js?v=77316129:19198
+workLoopSync @ chunk-RPCDYKBN.js?v=77316129:19137
+renderRootSync @ chunk-RPCDYKBN.js?v=77316129:19116
+recoverFromConcurrentError @ chunk-RPCDYKBN.js?v=77316129:18736
+performConcurrentWorkOnRoot @ chunk-RPCDYKBN.js?v=77316129:18684
+workLoop @ chunk-RPCDYKBN.js?v=77316129:197
+flushWork @ chunk-RPCDYKBN.js?v=77316129:176
+performWorkUntilDeadline @ chunk-RPCDYKBN.js?v=77316129:384
+useAuth.tsx:24 Warning: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://reactjs.org/link/invalid-hook-call for tips about how to debug and fix this problem.
+printWarning @ chunk-QCHXOAYK.js?v=57a9d818:136
+error @ chunk-QCHXOAYK.js?v=57a9d818:120
+resolveDispatcher @ chunk-QCHXOAYK.js?v=57a9d818:1045
+useState @ chunk-QCHXOAYK.js?v=57a9d818:1065
+AuthProvider @ useAuth.tsx:24
+renderWithHooks @ chunk-RPCDYKBN.js?v=77316129:11548
+mountIndeterminateComponent @ chunk-RPCDYKBN.js?v=77316129:14926
+beginWork @ chunk-RPCDYKBN.js?v=77316129:15914
+callCallback2 @ chunk-RPCDYKBN.js?v=77316129:3674
+invokeGuardedCallbackDev @ chunk-RPCDYKBN.js?v=77316129:3699
+invokeGuardedCallback @ chunk-RPCDYKBN.js?v=77316129:3733
+beginWork$1 @ chunk-RPCDYKBN.js?v=77316129:19765
+performUnitOfWork @ chunk-RPCDYKBN.js?v=77316129:19198
+workLoopSync @ chunk-RPCDYKBN.js?v=77316129:19137
+renderRootSync @ chunk-RPCDYKBN.js?v=77316129:19116
+recoverFromConcurrentError @ chunk-RPCDYKBN.js?v=77316129:18736
+performConcurrentWorkOnRoot @ chunk-RPCDYKBN.js?v=77316129:18684
+workLoop @ chunk-RPCDYKBN.js?v=77316129:197
+flushWork @ chunk-RPCDYKBN.js?v=77316129:176
+performWorkUntilDeadline @ chunk-RPCDYKBN.js?v=77316129:384
+chunk-QCHXOAYK.js?v=57a9d818:1066 Uncaught TypeError: Cannot read properties of null (reading 'useState')
+    at useState (chunk-QCHXOAYK.js?v=57a9d818:1066:29)
+    at AuthProvider (useAuth.tsx:24:27)
+    at renderWithHooks (chunk-RPCDYKBN.js?v=77316129:11548:26)
+    at mountIndeterminateComponent (chunk-RPCDYKBN.js?v=77316129:14926:21)
+    at beginWork (chunk-RPCDYKBN.js?v=77316129:15914:22)
+    at HTMLUnknownElement.callCallback2 (chunk-RPCDYKBN.js?v=77316129:3674:22)
+    at Object.invokeGuardedCallbackDev (chunk-RPCDYKBN.js?v=77316129:3699:24)
+    at invokeGuardedCallback (chunk-RPCDYKBN.js?v=77316129:3733:39)
+    at beginWork$1 (chunk-RPCDYKBN.js?v=77316129:19765:15)
+    at performUnitOfWork (chunk-RPCDYKBN.js?v=77316129:19198:20)
+useState @ chunk-QCHXOAYK.js?v=57a9d818:1066
+AuthProvider @ useAuth.tsx:24
+renderWithHooks @ chunk-RPCDYKBN.js?v=77316129:11548
+mountIndeterminateComponent @ chunk-RPCDYKBN.js?v=77316129:14926
+beginWork @ chunk-RPCDYKBN.js?v=77316129:15914
+callCallback2 @ chunk-RPCDYKBN.js?v=77316129:3674
+invokeGuardedCallbackDev @ chunk-RPCDYKBN.js?v=77316129:3699
+invokeGuardedCallback @ chunk-RPCDYKBN.js?v=77316129:3733
+beginWork$1 @ chunk-RPCDYKBN.js?v=77316129:19765
+performUnitOfWork @ chunk-RPCDYKBN.js?v=77316129:19198
+workLoopSync @ chunk-RPCDYKBN.js?v=77316129:19137
+renderRootSync @ chunk-RPCDYKBN.js?v=77316129:19116
+recoverFromConcurrentError @ chunk-RPCDYKBN.js?v=77316129:18736
+performConcurrentWorkOnRoot @ chunk-RPCDYKBN.js?v=77316129:18684
+workLoop @ chunk-RPCDYKBN.js?v=77316129:197
+flushWork @ chunk-RPCDYKBN.js?v=77316129:176
+performWorkUntilDeadline @ chunk-RPCDYKBN.js?v=77316129:384
+chunk-RPCDYKBN.js?v=77316129:14032 The above error occurred in the <AuthProvider> component:
+
+    at AuthProvider (https://e996d604-832e-4243-bdcd-2b4f4e129dc6-00-do73ne2obqgq.picard.replit.dev/src/hooks/useAuth.tsx:21:32)
+    at QueryClientProvider (https://e996d604-832e-4243-bdcd-2b4f4e129dc6-00-do73ne2obqgq.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=77316129:2805:3)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+logCapturedError @ chunk-RPCDYKBN.js?v=77316129:14032
+update.callback @ chunk-RPCDYKBN.js?v=77316129:14052
+callCallback @ chunk-RPCDYKBN.js?v=77316129:11248
+commitUpdateQueue @ chunk-RPCDYKBN.js?v=77316129:11265
+commitLayoutEffectOnFiber @ chunk-RPCDYKBN.js?v=77316129:17093
+commitLayoutMountEffects_complete @ chunk-RPCDYKBN.js?v=77316129:17980
+commitLayoutEffects_begin @ chunk-RPCDYKBN.js?v=77316129:17969
+commitLayoutEffects @ chunk-RPCDYKBN.js?v=77316129:17920
+commitRootImpl @ chunk-RPCDYKBN.js?v=77316129:19353
+commitRoot @ chunk-RPCDYKBN.js?v=77316129:19277
+finishConcurrentRender @ chunk-RPCDYKBN.js?v=77316129:18760
+performConcurrentWorkOnRoot @ chunk-RPCDYKBN.js?v=77316129:18718
+workLoop @ chunk-RPCDYKBN.js?v=77316129:197
+flushWork @ chunk-RPCDYKBN.js?v=77316129:176
+performWorkUntilDeadline @ chunk-RPCDYKBN.js?v=77316129:384
+chunk-RPCDYKBN.js?v=77316129:19413 Uncaught TypeError: Cannot read properties of null (reading 'useState')
+    at useState (chunk-QCHXOAYK.js?v=57a9d818:1066:29)
+    at AuthProvider (useAuth.tsx:24:27)
+    at renderWithHooks (chunk-RPCDYKBN.js?v=77316129:11548:26)
+    at mountIndeterminateComponent (chunk-RPCDYKBN.js?v=77316129:14926:21)
+    at beginWork (chunk-RPCDYKBN.js?v=77316129:15914:22)
+    at beginWork$1 (chunk-RPCDYKBN.js?v=77316129:19753:22)
+    at performUnitOfWork (chunk-RPCDYKBN.js?v=77316129:19198:20)
+    at workLoopSync (chunk-RPCDYKBN.js?v=77316129:19137:13)
+    at renderRootSync (chunk-RPCDYKBN.js?v=77316129:19116:15)
+    at recoverFromConcurrentError (chunk-RPCDYKBN.js?v=77316129:18736:28)
+useState @ chunk-QCHXOAYK.js?v=57a9d818:1066
+AuthProvider @ useAuth.tsx:24
+renderWithHooks @ chunk-RPCDYKBN.js?v=77316129:11548
+mountIndeterminateComponent @ chunk-RPCDYKBN.js?v=77316129:14926
+beginWork @ chunk-RPCDYKBN.js?v=77316129:15914
+beginWork$1 @ chunk-RPCDYKBN.js?v=77316129:19753
+performUnitOfWork @ chunk-RPCDYKBN.js?v=77316129:19198
+workLoopSync @ chunk-RPCDYKBN.js?v=77316129:19137
+renderRootSync @ chunk-RPCDYKBN.js?v=77316129:19116
+recoverFromConcurrentError @ chunk-RPCDYKBN.js?v=77316129:18736
+performConcurrentWorkOnRoot @ chunk-RPCDYKBN.js?v=77316129:18684
+workLoop @ chunk-RPCDYKBN.js?v=77316129:197
+flushWork @ chunk-RPCDYKBN.js?v=77316129:176
+performWorkUntilDeadline @ chunk-RPCDYKBN.js?v=77316129:384
+(index):227 PWA: Service Worker registered successfully ServiceWorkerRegistration {installing: null, waiting: null, active: ServiceWorker, navigationPreload: NavigationPreloadManager, scope: 'https://e996d604-832e-4243-bdcd-2b4f4e129dc6-00-do73ne2obqgq.picard.replit.dev/', …}
+(index):1 <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes">
+(index):240 PWA: Install prompt available
+(index):1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.

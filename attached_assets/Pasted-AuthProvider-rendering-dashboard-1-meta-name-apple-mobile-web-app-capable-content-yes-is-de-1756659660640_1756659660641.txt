@@ -1,0 +1,21 @@
+AuthProvider rendering...
+dashboard:1 <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes">
+VM157 dashboard:19 PWA: Install prompt available
+dashboard:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+chunk-KTSEXZKA.js?v=267ce042:337 Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+(anonymous) @ chunk-KTSEXZKA.js?v=267ce042:337
+commitHookEffectListMount @ chunk-RPCDYKBN.js?v=267ce042:16915
+commitPassiveMountOnFiber @ chunk-RPCDYKBN.js?v=267ce042:18156
+commitPassiveMountEffects_complete @ chunk-RPCDYKBN.js?v=267ce042:18129
+commitPassiveMountEffects_begin @ chunk-RPCDYKBN.js?v=267ce042:18119
+commitPassiveMountEffects @ chunk-RPCDYKBN.js?v=267ce042:18109
+flushPassiveEffectsImpl @ chunk-RPCDYKBN.js?v=267ce042:19490
+flushPassiveEffects @ chunk-RPCDYKBN.js?v=267ce042:19447
+commitRootImpl @ chunk-RPCDYKBN.js?v=267ce042:19416
+commitRoot @ chunk-RPCDYKBN.js?v=267ce042:19277
+performSyncWorkOnRoot @ chunk-RPCDYKBN.js?v=267ce042:18895
+flushSyncCallbacks @ chunk-RPCDYKBN.js?v=267ce042:9119
+(anonymous) @ chunk-RPCDYKBN.js?v=267ce042:18627
+calendar:1 Blocked aria-hidden on an element because its descendant retained focus. The focus must not be hidden from assistive technology users. Avoid using aria-hidden on a focused element or its ancestor. Consider using the inert attribute instead, which will also prevent focus. For more details, see the aria-hidden section of the WAI-ARIA specification at https://w3c.github.io/aria/#aria-hidden.
+Element with focus: <input.flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-base ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium file:text-foreground placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 md:text-sm#:r18:-form-item>
+Ancestor with aria-hidden: <div.fixed left-[50%] top-[50%] z-50 grid w-full max-w-lg translate-x-[-50%] translate-y-[-50%] gap-4 border bg-background p-6 shadow-lg duration-200 data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-95 data-[state=closed]:slide-out-to-left-1/2 data-[state=closed]:slide-out-to-top-[48%] data-[state=open]:slide-in-from-left-1/2 data-[state=open]:slide-in-from-top-[48%] sm:rounded-lg sm:max-w-md#radix-:rr:> <div role=​"dialog" id=​"radix-:​rr:​" aria-describedby=​"radix-:​rt:​" aria-labelledby=​"radix-:​rs:​" data-state=​"open" data-replit-metadata=​"client/​src/​pages/​Calendar.tsx:​2019:​8" data-component-name=​"DialogContent" class=​"fixed left-[50%]​ top-[50%]​ z-50 grid w-full max-w-lg translate-x-[-50%]​ translate-y-[-50%]​ gap-4 border bg-background p-6 shadow-lg duration-200 data-[state=open]​:​animate-in data-[state=closed]​:​animate-out data-[state=closed]​:​fade-out-0 data-[state=open]​:​fade-in-0 data-[state=closed]​:​zoom-out-95 data-[state=open]​:​zoom-in-95 data-[state=closed]​:​slide-out-to-left-1/​2 data-[state=closed]​:​slide-out-to-top-[48%]​ data-[state=open]​:​slide-in-from-left-1/​2 data-[state=open]​:​slide-in-from-top-[48%]​ sm:​rounded-lg sm:​max-w-md" tabindex=​"-1" data-aria-hidden=​"true" aria-hidden=​"true" style=​"pointer-events:​ auto;​">​…​</div>​grid

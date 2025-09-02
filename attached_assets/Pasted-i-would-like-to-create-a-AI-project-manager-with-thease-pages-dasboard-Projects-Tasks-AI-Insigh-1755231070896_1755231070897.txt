@@ -1,0 +1,132 @@
+i would like to create a AI project manager with thease pages 
+dasboard
+Projects
+Tasks
+AI Insights
+Meetings
+Calendar
+Team
+Settings
+
+
+user should be able to record meeting for up to 2hours and save it and it automatically creates action plan, and creates tasks and to do  under that peoject that was slected, can invite people to the peoject, must m=be mobile friendly mobile firts and responsive, 
+
+
+Dashboard - can show things like the count for 
+Total Projects
+Active Tasks
+Completed Tasks
+Team Members
+
+Recent Activity
+No recent activity.
+
+
+
+*4. AI-Powered Features:**
+  - Voice recording with transcription (using AssemblyAI)
+  - AI task extraction from voice recordings
+  - AI project insights and suggestions
+  - Smart notifications based on project activity
+  - End-of-day AI summaries
+ai powerd 
+
+*5. Calendar & Scheduling:**
+  - Integrated calendar view
+  - Meeting scheduling and reminders
+  - Deadline tracking and alerts
+  - Timeline views for projects
+
+User profile and settings
+  - Calendar and scheduling views
+  - Voice recording interface
+  - Analytics and insights pages
+
+
+  **API Integration:**
+  - AssemblyAI for voice transcription
+  - Groq or OpenAI for AI features
+  - Email service (Resend) for notifications
+  - Calendar integration capabilities
+
+ ```env
+  NEXT_PUBLIC_SUPABASE_URL=
+  NEXT_PUBLIC_SUPABASE_ANON_KEY=
+  SUPABASE_SERVICE_ROLE_KEY=
+  ASSEMBLYAI_API_KEY=
+  GROQ_API_KEY=
+  RESEND_API_KEY=
+  NEXT_PUBLIC_APP_URL=
+
+Special Requirements
+
+  Voice-to-Tasks Flow:
+  1. User records voice memo
+  2. Audio is transcribed using AssemblyAI
+  3. AI extracts actionable tasks from transcript
+  4. Tasks are automatically created in selected project
+  5. User can review and edit before saving
+
+ AI Insights:
+  1. Daily project health analysis
+  2. Task completion predictions
+  3. Workload balancing suggestions
+  4. Meeting insights from recordings
+  5. Smart deadline recommendations
+
+
+📧 Daily Assistant Settings
+Configure how your AI assistant keeps you informed throughout the day
+
+
+Enable Email Notifications
+Receive intelligent notifications and daily digests via email
+
+Daily Digests
+
+Morning Briefing (7:00 AM)
+Start your day with AI insights, priorities, and schedule overview
+
+Test
+
+Lunch Break Reminder (12:00 PM)
+Gentle reminder to take a break with afternoon preview
+
+
+End of Day Summary (5:00 PM)
+Review accomplishments and prepare for tomorrow
+
+Smart Notifications
+
+Meeting Reminders
+Get notified 30 minutes before meetings start
+
+
+Task Deadline Alerts
+Notifications for approaching and overdue tasks
+
+
+AI Proactive Insights
+Intelligent suggestions for optimization and risk prevention
+
+Notification Settings
+Notification Frequency
+Hourly Digest
+Working Hours Start
+09:00 AM
+Working Hours End
+06:00 PM
+
+Urgent Notifications Only
+Only receive notifications for high-priority and urgent items
+
+Save Preferences
+Test Email Configuration
+Verify your email service is working by sending a test email
+
+
+Analyzing your schedule and workload patterns
+Providing proactive insights and suggestions
+Detecting potential conflicts and risks
+Sending timely reminders and updates
+Helping you maintain work-life balance

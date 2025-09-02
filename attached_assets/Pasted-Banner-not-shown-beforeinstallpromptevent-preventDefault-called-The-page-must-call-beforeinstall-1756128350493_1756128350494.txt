@@ -1,0 +1,723 @@
+Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+Calendar.tsx:1172 POSITIONING: Event "CRO Weekly Meeting" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "CRO Weekly Meeting" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "Palace - FD BI-weekly" time: "10:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 10, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Palace - FD BI-weekly" positioned at 496px (should be at hour 10)
+Calendar.tsx:1172 POSITIONING: Event "L&D Dataverse" time: "3:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 15, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "L&D Dataverse" positioned at 736px (should be at hour 15)
+Calendar.tsx:1172 POSITIONING: Event "Focus time (excel and tabletop)" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Focus time (excel and tabletop)" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "FO Realignment" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "FO Realignment" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "FW: Meet with Construction" time: "11:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 11, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "FW: Meet with Construction" positioned at 544px (should be at hour 11)
+Calendar.tsx:1172 POSITIONING: Event "Cocoa One on One" time: "3:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 15, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Cocoa One on One" positioned at 736px (should be at hour 15)
+Calendar.tsx:1172 POSITIONING: Event "Focus time (excel and tabletop)" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Focus time (excel and tabletop)" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "Branson Lake Monthly Meeting" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Branson Lake Monthly Meeting" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "ADP WFM Labor Meeting" time: "11:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 11, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "ADP WFM Labor Meeting" positioned at 544px (should be at hour 11)
+Calendar.tsx:1172 POSITIONING: Event "L&D Dataverse" time: "3:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 15, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "L&D Dataverse" positioned at 736px (should be at hour 15)
+Calendar.tsx:1172 POSITIONING: Event "Focus Training" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Focus Training" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "FO River Ranch Monthly" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "FO River Ranch Monthly" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "Lakes Meet" time: "12:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 12, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Lakes Meet" positioned at 592px (should be at hour 12)
+Calendar.tsx:1172 POSITIONING: Event "One-on-one : Omar" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "One-on-one : Omar" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "FO Monthly Meeting" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "FO Monthly Meeting" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "Focus time (excel and tabletop)" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Focus time (excel and tabletop)" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "CRO Weekly Meeting" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "CRO Weekly Meeting" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "Palace - FD BI-weekly" time: "10:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 10, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Palace - FD BI-weekly" positioned at 496px (should be at hour 10)
+Calendar.tsx:1172 POSITIONING: Event "L&D Dataverse" time: "3:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 15, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "L&D Dataverse" positioned at 736px (should be at hour 15)
+Calendar.tsx:1172 POSITIONING: Event "Focus time (excel and tabletop)" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Focus time (excel and tabletop)" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "FO Realignment" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "FO Realignment" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "FW: Meet with Construction" time: "11:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 11, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "FW: Meet with Construction" positioned at 544px (should be at hour 11)
+Calendar.tsx:1172 POSITIONING: Event "Cocoa One on One" time: "3:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 15, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Cocoa One on One" positioned at 736px (should be at hour 15)
+Calendar.tsx:1172 POSITIONING: Event "Focus time (excel and tabletop)" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Focus time (excel and tabletop)" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "Branson Lake Monthly Meeting" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Branson Lake Monthly Meeting" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "ADP WFM Labor Meeting" time: "11:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 11, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "ADP WFM Labor Meeting" positioned at 544px (should be at hour 11)
+Calendar.tsx:1172 POSITIONING: Event "L&D Dataverse" time: "3:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 15, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "L&D Dataverse" positioned at 736px (should be at hour 15)
+Calendar.tsx:1172 POSITIONING: Event "Focus Training" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Focus Training" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "FO River Ranch Monthly" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "FO River Ranch Monthly" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "Lakes Meet" time: "12:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 12, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Lakes Meet" positioned at 592px (should be at hour 12)
+Calendar.tsx:1172 POSITIONING: Event "One-on-one : Omar" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "One-on-one : Omar" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "FO Monthly Meeting" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "FO Monthly Meeting" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "Focus time (excel and tabletop)" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Focus time (excel and tabletop)" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "CRO Weekly Meeting" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "CRO Weekly Meeting" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "Palace - FD BI-weekly" time: "10:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 10, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Palace - FD BI-weekly" positioned at 496px (should be at hour 10)
+Calendar.tsx:1172 POSITIONING: Event "L&D Dataverse" time: "3:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 15, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "L&D Dataverse" positioned at 736px (should be at hour 15)
+Calendar.tsx:1172 POSITIONING: Event "Focus time (excel and tabletop)" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Focus time (excel and tabletop)" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "FO Realignment" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "FO Realignment" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "FW: Meet with Construction" time: "11:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 11, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "FW: Meet with Construction" positioned at 544px (should be at hour 11)
+Calendar.tsx:1172 POSITIONING: Event "Cocoa One on One" time: "3:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 15, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Cocoa One on One" positioned at 736px (should be at hour 15)
+Calendar.tsx:1172 POSITIONING: Event "Focus time (excel and tabletop)" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Focus time (excel and tabletop)" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "Branson Lake Monthly Meeting" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Branson Lake Monthly Meeting" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "ADP WFM Labor Meeting" time: "11:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 11, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "ADP WFM Labor Meeting" positioned at 544px (should be at hour 11)
+Calendar.tsx:1172 POSITIONING: Event "L&D Dataverse" time: "3:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 15, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "L&D Dataverse" positioned at 736px (should be at hour 15)
+Calendar.tsx:1172 POSITIONING: Event "Focus Training" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Focus Training" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "FO River Ranch Monthly" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "FO River Ranch Monthly" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "Lakes Meet" time: "12:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 12, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Lakes Meet" positioned at 592px (should be at hour 12)
+Calendar.tsx:1172 POSITIONING: Event "One-on-one : Omar" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "One-on-one : Omar" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "FO Monthly Meeting" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "FO Monthly Meeting" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "Focus time (excel and tabletop)" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Focus time (excel and tabletop)" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "CRO Weekly Meeting" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "CRO Weekly Meeting" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "Palace - FD BI-weekly" time: "10:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 10, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Palace - FD BI-weekly" positioned at 496px (should be at hour 10)
+Calendar.tsx:1172 POSITIONING: Event "L&D Dataverse" time: "3:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 15, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "L&D Dataverse" positioned at 736px (should be at hour 15)
+Calendar.tsx:1172 POSITIONING: Event "Focus time (excel and tabletop)" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Focus time (excel and tabletop)" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "FO Realignment" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "FO Realignment" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "FW: Meet with Construction" time: "11:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 11, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "FW: Meet with Construction" positioned at 544px (should be at hour 11)
+Calendar.tsx:1172 POSITIONING: Event "Cocoa One on One" time: "3:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 15, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Cocoa One on One" positioned at 736px (should be at hour 15)
+Calendar.tsx:1172 POSITIONING: Event "Focus time (excel and tabletop)" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Focus time (excel and tabletop)" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "Branson Lake Monthly Meeting" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Branson Lake Monthly Meeting" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "ADP WFM Labor Meeting" time: "11:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 11, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "ADP WFM Labor Meeting" positioned at 544px (should be at hour 11)
+Calendar.tsx:1172 POSITIONING: Event "L&D Dataverse" time: "3:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 15, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "L&D Dataverse" positioned at 736px (should be at hour 15)
+Calendar.tsx:1172 POSITIONING: Event "Focus Training" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Focus Training" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "FO River Ranch Monthly" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "FO River Ranch Monthly" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "Lakes Meet" time: "12:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 12, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Lakes Meet" positioned at 592px (should be at hour 12)
+Calendar.tsx:1172 POSITIONING: Event "One-on-one : Omar" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "One-on-one : Omar" positioned at 448px (should be at hour 9)
+Calendar.tsx:1172 POSITIONING: Event "FO Monthly Meeting" time: "1:00 PM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 13, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "FO Monthly Meeting" positioned at 640px (should be at hour 13)
+Calendar.tsx:1172 POSITIONING: Event "Focus time (excel and tabletop)" time: "9:00 AM"
+Calendar.tsx:1181 POSITIONING: Parsed hour: 9, minute: 0
+Calendar.tsx:1185 POSITIONING: Event "Focus time (excel and tabletop)" positioned at 448px (should be at hour 9)
+Calendar.tsx:472 Raw Outlook event: {title: 'Lobby Ops Page: Bi-Weekly', start: '2024-08-21T09:00:00.000Z', end: '2024-08-21T09:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'HK/FD CALL', start: '2024-08-25T07:30:00.000Z', end: '2024-08-25T07:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: DBR', start: '2024-08-25T09:00:00.000Z', end: '2024-08-25T09:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'WOW Loyalty Benefits On-Site', start: '2024-08-26T09:30:00.000Z', end: '2024-08-26T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'CRO Weekly Meeting', start: '2024-08-26T13:00:00.000Z', end: '2024-08-26T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'CRO Weekly Meeting', start: '2024-08-26T13:00:00.000Z', end: '2024-08-26T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: Front Office Marketing Connect - Tentative Placeholder', start: '2024-08-26T15:30:00.000Z', end: '2024-08-26T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Front Office Marketing Connect - Tentative Placeholder', start: '2024-08-26T15:30:00.000Z', end: '2024-08-26T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: PCI Compliance - Excel', start: '2024-08-26T16:00:00.000Z', end: '2024-08-26T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Forecast Refresher', start: '2024-08-27T09:30:00.000Z', end: '2024-08-27T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Grouping', start: '2024-08-27T11:00:00.000Z', end: '2024-08-27T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Park City Meet', start: '2024-08-27T14:00:00.000Z', end: '2024-08-27T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Kipsu Safety & Security Messages', start: '2024-08-27T14:30:00.000Z', end: '2024-08-27T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC FD Grouping', start: '2024-08-27T14:30:00.000Z', end: '2024-08-27T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Westgate - Optimized Scheduling weekly status meeting', start: '2024-08-27T16:00:00.000Z', end: '2024-08-27T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Lobby Ops Page: Bi-Weekly', start: '2024-08-28T09:00:00.000Z', end: '2024-08-28T09:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Uniforms', start: '2024-08-28T09:30:00.000Z', end: '2024-08-28T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Hold for Omar', start: '2024-08-28T10:00:00.000Z', end: '2024-08-28T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC INV Grouping', start: '2024-08-28T10:00:00.000Z', end: '2024-08-28T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'ADP WFM Labor Meeting', start: '2024-08-28T11:00:00.000Z', end: '2024-08-28T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FD Grouping (PC)', start: '2024-08-28T11:00:00.000Z', end: '2024-08-28T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-08-28T11:00:00.000Z', end: '2024-08-28T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-08-28T12:00:00.000Z', end: '2024-08-28T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-08-28T12:00:00.000Z', end: '2024-08-28T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'New York/IT call', start: '2024-08-28T13:00:00.000Z', end: '2024-08-28T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Info Guide', start: '2024-08-28T13:00:00.000Z', end: '2024-08-28T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Excel Report Structure', start: '2024-08-28T15:00:00.000Z', end: '2024-08-28T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FD Groupings for Unit Types Part 2', start: '2024-08-28T15:30:00.000Z', end: '2024-08-28T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'One-on-one : Omar', start: '2024-08-29T09:00:00.000Z', end: '2024-08-29T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'One-on-one : Omar', start: '2024-08-29T11:00:00.000Z', end: '2024-08-29T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Lakes Meet', start: '2024-08-29T12:00:00.000Z', end: '2024-08-29T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FD Groupings', start: '2024-08-29T14:00:00.000Z', end: '2024-08-29T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FD Grouping (Lakes)', start: '2024-08-29T14:00:00.000Z', end: '2024-08-29T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Reports', start: '2024-08-29T14:00:00.000Z', end: '2024-08-29T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Private Appointment', start: '2024-08-30T08:00:00.000Z', end: '2024-08-30T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'RPM Programs', start: '2024-08-30T09:00:00.000Z', end: '2024-08-30T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC FD Grouping', start: '2024-08-30T09:30:00.000Z', end: '2024-08-30T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'VIP Reservations', start: '2024-08-30T10:00:00.000Z', end: '2024-08-30T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Villas FD Grouping', start: '2024-08-30T11:00:00.000Z', end: '2024-08-30T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Pop-up meeting (Uniform)', start: '2024-08-30T13:00:00.000Z', end: '2024-08-30T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Quick PowerPoint Review for Uniform Samples', start: '2024-08-30T15:00:00.000Z', end: '2024-08-30T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Break', start: '2024-09-02T12:00:00.000Z', end: '2024-09-02T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: Weekly Leadership Ops Mtg', start: '2024-09-02T13:00:00.000Z', end: '2024-09-02T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Flamingo Bay Monthly', start: '2024-09-02T16:00:00.000Z', end: '2024-09-02T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: "Sylvia's off (Corp PBX)", start: '2024-09-03T12:00:00.000Z', end: '2024-09-10T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2024-09-03T11:00:00.000Z', end: '2024-09-03T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Lakes Bi-weekly', start: '2024-09-03T11:00:00.000Z', end: '2024-09-03T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Villas VIP - Bi - Weekly', start: '2024-09-03T13:00:00.000Z', end: '2024-09-03T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Elite/Platinum WOW check-in', start: '2024-09-03T15:00:00.000Z', end: '2024-09-03T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: Villas/Town Center Monthly HotSOS Superuser Meeting', start: '2024-09-03T16:00:00.000Z', end: '2024-09-03T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training for Rate Codes to Unit Type', start: '2024-09-04T09:00:00.000Z', end: '2024-09-04T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Monthly FDC Updates', start: '2024-09-04T10:00:00.000Z', end: '2024-09-04T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: Monthly FDC Updates', start: '2024-09-04T10:00:00.000Z', end: '2024-09-04T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-09-04T10:00:00.000Z', end: '2024-09-04T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-09-04T10:00:00.000Z', end: '2024-09-04T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Hold for O', start: '2024-09-04T11:00:00.000Z', end: '2024-09-04T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Historic Williamsburg - FD Monthly', start: '2024-09-04T11:00:00.000Z', end: '2024-09-04T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Front Office Committee (FDC/Forecast)', start: '2024-09-04T13:00:00.000Z', end: '2024-09-04T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Front Office Committee', start: '2024-09-04T13:00:00.000Z', end: '2024-09-04T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Unit Load Prep', start: '2024-09-04T15:30:00.000Z', end: '2024-09-04T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Lobby Ops Page: Bi-Weekly', start: '2024-09-05T09:00:00.000Z', end: '2024-09-05T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: One-on-one : Omar', start: '2024-09-05T09:00:00.000Z', end: '2024-09-05T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'RT/WB - Bi-Weekly', start: '2024-09-05T11:00:00.000Z', end: '2024-09-05T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Lakes Meet', start: '2024-09-05T13:00:00.000Z', end: '2024-09-05T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FO Blue Tree Monthly', start: '2024-09-05T13:00:00.000Z', end: '2024-09-05T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FO Blue Tree Monthly', start: '2024-09-05T15:00:00.000Z', end: '2024-09-05T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Resort Ops and IT Project Standup', start: '2024-09-05T16:00:00.000Z', end: '2024-09-05T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: "Homan's Heroes vs WestGators (Away)", start: '2024-09-05T20:45:00.000Z', end: '2024-09-05T21:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: "WestGators vs Hagan O'Reilly's (Home)", start: '2024-09-05T20:45:00.000Z', end: '2024-09-05T21:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Villas Bi-Weekly', start: '2024-09-06T11:00:00.000Z', end: '2024-09-06T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Villas FD Grouping', start: '2024-09-06T14:00:00.000Z', end: '2024-09-06T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Standards', start: '2024-09-09T09:00:00.000Z', end: '2024-09-09T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Rollout | Cashless', start: '2024-09-09T11:30:00.000Z', end: '2024-09-09T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'CRO Weekly Meeting', start: '2024-09-09T13:00:00.000Z', end: '2024-09-09T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Budget Review - Nationals', start: '2024-09-09T16:00:00.000Z', end: '2024-09-09T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Pop-up Meeting (WOW Check-in/Forecast training)', start: '2024-09-10T09:00:00.000Z', end: '2024-09-10T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'WiSuite - Westgate Meeting', start: '2024-09-10T11:00:00.000Z', end: '2024-09-10T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2024-09-10T11:00:00.000Z', end: '2024-09-10T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-09-11T12:00:00.000Z', end: '2024-09-11T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-09-11T12:00:00.000Z', end: '2024-09-11T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'WestGators vs Id Hit That (Home)', start: '2024-09-12T19:45:00.000Z', end: '2024-09-12T20:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'RPM Big 3 - part 2', start: '2024-09-13T09:00:00.000Z', end: '2024-09-13T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Myrtle Beach Bi-weekly', start: '2024-09-13T10:30:00.000Z', end: '2024-09-13T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Forecast', start: '2024-09-13T11:00:00.000Z', end: '2024-09-13T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Initiative', start: '2024-09-13T13:00:00.000Z', end: '2024-09-13T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Initiative', start: '2024-09-13T13:00:00.000Z', end: '2024-09-13T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Popup Meeting', start: '2024-09-13T14:00:00.000Z', end: '2024-09-13T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Travel to Jamaica', start: '2024-09-16T06:00:00.000Z', end: '2024-09-20T21:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'CRO Weekly Meeting', start: '2024-09-16T13:00:00.000Z', end: '2024-09-16T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2024-09-17T11:00:00.000Z', end: '2024-09-17T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Training Updates - Omar', start: '2024-09-18T11:00:00.000Z', end: '2024-09-18T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: WOW Loyalty and Guest Services - Quick Connect', start: '2024-09-19T10:00:00.000Z', end: '2024-09-19T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'GM Monthly Meeting', start: '2024-09-19T13:00:00.000Z', end: '2024-09-19T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: GM Monthly Meeting', start: '2024-09-19T13:00:00.000Z', end: '2024-09-19T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC rollout discussion', start: '2024-09-23T09:00:00.000Z', end: '2024-09-23T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Kipsu - Westgate', start: '2024-09-23T10:00:00.000Z', end: '2024-09-23T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'CRO Weekly Meeting', start: '2024-09-23T13:00:00.000Z', end: '2024-09-23T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Booked', start: '2024-09-24T08:45:00.000Z', end: '2024-09-24T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2024-09-24T11:00:00.000Z', end: '2024-09-24T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Incidentals discussion', start: '2024-09-24T14:00:00.000Z', end: '2024-09-24T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'WG Towers FDC rollout', start: '2024-09-25T05:30:00.000Z', end: '2024-09-27T19:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-09-25T18:00:00.000Z', end: '2024-09-25T19:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-09-25T18:00:00.000Z', end: '2024-09-25T19:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'CRO Office Update', start: '2024-09-26T09:00:00.000Z', end: '2024-09-26T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Towers Monthly', start: '2024-09-26T10:00:00.000Z', end: '2024-09-26T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Popup meeting (Luggage Cart)', start: '2024-09-26T11:00:00.000Z', end: '2024-09-26T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FO River Ranch Monthly', start: '2024-09-26T13:00:00.000Z', end: '2024-09-26T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: WestGators vs Showtime (Home)', start: '2024-09-26T18:45:00.000Z', end: '2024-09-26T19:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: '1:1 with Omar', start: '2024-09-27T13:00:00.000Z', end: '2024-09-27T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Rob / Omar / Charlie', start: '2024-09-27T13:00:00.000Z', end: '2024-09-27T13:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'appt', start: '2024-09-30T09:00:00.000Z', end: '2024-09-30T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Lakes Meet', start: '2024-09-30T12:00:00.000Z', end: '2024-09-30T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2024-10-01T11:00:00.000Z', end: '2024-10-01T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Villas VIP - Bi - Weekly', start: '2024-10-01T15:00:00.000Z', end: '2024-10-01T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Monthly FDC Updates', start: '2024-10-02T09:00:00.000Z', end: '2024-10-02T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Unit Type Training', start: '2024-10-02T10:00:00.000Z', end: '2024-10-02T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Training Updates - Omar', start: '2024-10-02T11:00:00.000Z', end: '2024-10-02T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Review Customer Service Week', start: '2024-10-03T10:00:00.000Z', end: '2024-10-03T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'WestGators vs Killing Me Smalls (Home)', start: '2024-10-03T18:45:00.000Z', end: '2024-10-03T19:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'D appt', start: '2024-10-04T09:00:00.000Z', end: '2024-10-04T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Kipsu Messaging - Target Audience WOW Loyalty Members', start: '2024-10-04T15:00:00.000Z', end: '2024-10-04T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: '10AM Hurricane Executive Briefing', start: '2024-10-07T10:00:00.000Z', end: '2024-10-07T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: '10AM Hurricane Executive Briefing', start: '2024-10-07T10:00:00.000Z', end: '2024-10-07T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Hurricane Prep/Update', start: '2024-10-07T15:00:00.000Z', end: '2024-10-07T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: '5:45 PM Hurricane Executive Briefing w/NWS', start: '2024-10-07T17:45:00.000Z', end: '2024-10-07T18:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: '5:45 PM Hurricane Executive Briefing w/NWS', start: '2024-10-07T17:45:00.000Z', end: '2024-10-07T18:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: '10AM Hurricane Executive Briefing', start: '2024-10-08T10:00:00.000Z', end: '2024-10-08T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2024-10-08T11:00:00.000Z', end: '2024-10-08T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Cashless Discussion', start: '2024-10-08T13:30:00.000Z', end: '2024-10-08T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: '5:45 PM Hurricane Executive Briefing w/NWS', start: '2024-10-08T17:45:00.000Z', end: '2024-10-08T18:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Emergency Conference Call Link', start: '2024-10-09T12:00:00.000Z', end: '2024-10-11T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'HK/FD CALL', start: '2024-10-09T07:45:00.000Z', end: '2024-10-09T07:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-10-09T09:00:00.000Z', end: '2024-10-09T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-10-09T09:00:00.000Z', end: '2024-10-09T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: '10AM Hurricane Executive Briefing', start: '2024-10-09T10:00:00.000Z', end: '2024-10-09T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: '5:45 PM Hurricane Executive Briefing w/NWS', start: '2024-10-09T17:45:00.000Z', end: '2024-10-09T18:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: '10AM Hurricane Executive Briefing', start: '2024-10-10T10:00:00.000Z', end: '2024-10-10T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: '5:45 PM Hurricane Executive Briefing w/NWS', start: '2024-10-10T17:45:00.000Z', end: '2024-10-10T18:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'OFF WEEK NO GAME - WestGators', start: '2024-10-10T18:45:00.000Z', end: '2024-10-10T19:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Cashless Discussion', start: '2024-10-11T11:00:00.000Z', end: '2024-10-11T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'O call Steph', start: '2024-10-11T12:00:00.000Z', end: '2024-10-11T12:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Inventory and FDC Needs', start: '2024-10-14T15:00:00.000Z', end: '2024-10-14T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'script', start: '2024-10-15T10:30:00.000Z', end: '2024-10-15T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Film Omar', start: '2024-10-15T11:00:00.000Z', end: '2024-10-15T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Villas VIP - Bi - Weekly', start: '2024-10-15T13:00:00.000Z', end: '2024-10-15T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Front Office Initiative', start: '2024-10-15T14:00:00.000Z', end: '2024-10-15T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Training Updates - Omar', start: '2024-10-16T11:00:00.000Z', end: '2024-10-16T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Initial Uniform Review', start: '2024-10-16T13:00:00.000Z', end: '2024-10-16T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Smoky monthly', start: '2024-10-16T14:00:00.000Z', end: '2024-10-16T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Contract Labor Review', start: '2024-10-16T14:00:00.000Z', end: '2024-10-16T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'ARDA', start: '2024-10-16T16:00:00.000Z', end: '2024-10-16T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'One-on-One', start: '2024-10-17T08:30:00.000Z', end: '2024-10-17T09:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Front Desk Console Accounting Role Training', start: '2024-10-17T09:30:00.000Z', end: '2024-10-17T12:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Front Desk Console Accounting Role Training', start: '2024-10-17T15:00:00.000Z', end: '2024-10-17T18:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'WestGators vs SOS (Home)', start: '2024-10-17T18:45:00.000Z', end: '2024-10-17T19:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: "Acts of Kindness: [Soldiers' Angels] [In-person]", start: '2024-10-18T08:30:00.000Z', end: '2024-10-18T13:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Unit type Discussion (FDC)', start: '2024-10-18T14:00:00.000Z', end: '2024-10-18T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Contract Labor', start: '2024-10-19T10:00:00.000Z', end: '2024-10-19T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Omar/Steve', start: '2024-10-21T09:00:00.000Z', end: '2024-10-21T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC User Document Review', start: '2024-10-21T10:00:00.000Z', end: '2024-10-21T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Omar - Robert 1 on 1', start: '2024-10-21T15:00:00.000Z', end: '2024-10-21T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'reports', start: '2024-10-21T17:00:00.000Z', end: '2024-10-21T19:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Private Appointment', start: '2024-10-22T11:00:00.000Z', end: '2024-10-22T13:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2024-10-22T11:00:00.000Z', end: '2024-10-22T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Contract Labor Review', start: '2024-10-22T15:00:00.000Z', end: '2024-10-22T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Park City Meet', start: '2024-10-22T15:00:00.000Z', end: '2024-10-22T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-10-23T10:00:00.000Z', end: '2024-10-23T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-10-23T10:00:00.000Z', end: '2024-10-23T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'MR/FDC Comments /Postings', start: '2024-10-23T13:00:00.000Z', end: '2024-10-23T13:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Hold for MIT Draft Party', start: '2024-10-23T18:00:00.000Z', end: '2024-10-23T20:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'MIT Program Graduation Dinner', start: '2024-10-23T18:00:00.000Z', end: '2024-10-23T20:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Omar Braham - American Airlines 1628 - departs 7:00 AM local time -', start: '2024-10-24T07:00:00.000Z', end: '2024-10-24T11:48:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Private Appointment', start: '2024-10-24T07:00:00.000Z', end: '2024-10-24T11:48:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'National Car Rental Pick-up, Midsize', start: '2024-10-24T12:00:00.000Z', end: '2024-10-24T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Key Card Inventory 2025', start: '2024-10-24T16:15:00.000Z', end: '2024-10-24T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Contractor Labor Review', start: '2024-10-25T11:00:00.000Z', end: '2024-10-25T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FO Monthly Meeting', start: '2024-10-25T13:00:00.000Z', end: '2024-10-25T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FO Monthly Meeting', start: '2024-10-25T13:00:00.000Z', end: '2024-10-25T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Halloween / windhover', start: '2024-10-25T13:00:00.000Z', end: '2024-10-25T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Pop-up Meeting (Report Subscription)', start: '2024-10-27T14:30:00.000Z', end: '2024-10-27T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'National Car Rental Drop-off, Midsize', start: '2024-10-28T10:00:00.000Z', end: '2024-10-28T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Private Appointment', start: '2024-10-28T09:00:00.000Z', end: '2024-10-28T13:12:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Omar Braham - American Airlines 2118 - departs 9:00 AM local time -', start: '2024-10-28T12:00:00.000Z', end: '2024-10-28T16:12:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'CRO Weekly Meeting', start: '2024-10-28T13:00:00.000Z', end: '2024-10-28T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: '[TEST RECORDING] - CRO Weekly Meeting', start: '2024-10-28T13:00:00.000Z', end: '2024-10-28T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Emails', start: '2024-10-29T09:00:00.000Z', end: '2024-10-29T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'cashless', start: '2024-10-29T11:00:00.000Z', end: '2024-10-29T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'PBX', start: '2024-10-29T13:00:00.000Z', end: '2024-10-29T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Tableau', start: '2024-10-29T15:00:00.000Z', end: '2024-10-29T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'ops', start: '2024-10-29T16:00:00.000Z', end: '2024-10-29T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'staffing logic', start: '2024-10-29T17:00:00.000Z', end: '2024-10-29T18:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Email, cashless, emergency, Tableau, kipsu, video, schedule m', start: '2024-10-30T08:30:00.000Z', end: '2024-10-30T09:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Training Phase 2', start: '2024-10-30T09:00:00.000Z', end: '2024-10-30T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Contract Labor', start: '2024-10-30T09:30:00.000Z', end: '2024-10-30T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-10-30T11:00:00.000Z', end: '2024-10-30T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-10-30T11:00:00.000Z', end: '2024-10-30T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'ADA Report', start: '2024-10-30T16:30:00.000Z', end: '2024-10-30T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Contract Labor', start: '2024-10-30T17:00:00.000Z', end: '2024-10-30T17:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Contract Labor Review - Front Office', start: '2024-10-31T10:00:00.000Z', end: '2024-10-31T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'IT PROJECT', start: '2024-10-31T15:00:00.000Z', end: '2024-10-31T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: Resort Ops and IT Project Standup', start: '2024-10-31T16:00:00.000Z', end: '2024-10-31T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Lakes', start: '2024-11-01T09:00:00.000Z', end: '2024-11-01T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Meeting prep', start: '2024-11-01T10:30:00.000Z', end: '2024-11-01T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Incidentals Hold Rollout Discussion', start: '2024-11-01T14:00:00.000Z', end: '2024-11-01T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Kipsu - Westgate Pilot Readout', start: '2024-11-01T14:00:00.000Z', end: '2024-11-01T14:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Front Office Initiative', start: '2024-11-01T15:30:00.000Z', end: '2024-11-01T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'ADA report', start: '2024-11-04T11:00:00.000Z', end: '2024-11-04T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Cashless Analysis', start: '2024-11-04T11:30:00.000Z', end: '2024-11-04T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'CRO Weekly Meeting', start: '2024-11-04T13:00:00.000Z', end: '2024-11-04T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: FDC Training', start: '2024-11-05T12:00:00.000Z', end: '2024-11-08T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'App Update - Front Desk Console', start: '2024-11-05T10:00:00.000Z', end: '2024-11-05T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2024-11-05T11:00:00.000Z', end: '2024-11-05T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-11-05T11:30:00.000Z', end: '2024-11-05T12:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-11-05T11:30:00.000Z', end: '2024-11-05T12:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'SME Training Class', start: '2024-11-06T12:00:00.000Z', end: '2024-11-09T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Training', start: '2024-11-06T08:00:00.000Z', end: '2024-11-06T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Training', start: '2024-11-07T08:00:00.000Z', end: '2024-11-07T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: "Homan's Heroes vs WestGators (Away)", start: '2024-11-07T20:45:00.000Z', end: '2024-11-07T21:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Training', start: '2024-11-08T08:00:00.000Z', end: '2024-11-08T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Save the Date: Team Outing [In-person]', start: '2024-11-08T11:00:00.000Z', end: '2024-11-08T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Film Omar', start: '2024-11-08T14:00:00.000Z', end: '2024-11-08T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Smoky FDC Training', start: '2024-11-10T12:00:00.000Z', end: '2024-11-16T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: CRO Weekly Meeting', start: '2024-11-11T13:00:00.000Z', end: '2024-11-11T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Phase 1 Training', start: '2024-11-12T10:00:00.000Z', end: '2024-11-12T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Meet with Construction team and Villa Operations Team', start: '2024-11-12T11:00:00.000Z', end: '2024-11-12T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'VIP Arrival - BARKER, RICK - RES#18399353', start: '2024-11-13T12:00:00.000Z', end: '2024-11-17T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'VIP Arrival - Townsend, Carl - RES# 18399343', start: '2024-11-13T12:00:00.000Z', end: '2024-11-17T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: "Mobile App Team's FDC Request", start: '2024-11-13T10:00:00.000Z', end: '2024-11-13T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Training Updates - Omar', start: '2024-11-13T11:00:00.000Z', end: '2024-11-13T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'SM Housekeeping Leaders Meet', start: '2024-11-13T11:00:00.000Z', end: '2024-11-13T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FD Discussion', start: '2024-11-13T12:00:00.000Z', end: '2024-11-13T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Smoky Staff Meeting', start: '2024-11-13T13:00:00.000Z', end: '2024-11-13T14:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Pre-assessment quiz - FD cord.', start: '2024-11-13T14:30:00.000Z', end: '2024-11-13T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Steph & Omar', start: '2024-11-13T16:30:00.000Z', end: '2024-11-13T17:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Private Appointment', start: '2024-11-14T14:56:00.000Z', end: '2024-11-14T16:13:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Omar Braham - American Airlines 5197 - departs 2:56 PM local time -', start: '2024-11-14T14:56:00.000Z', end: '2024-11-14T16:13:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Kipsu - Westgate Follow up all', start: '2024-11-14T15:00:00.000Z', end: '2024-11-14T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Private Appointment', start: '2024-11-14T18:00:00.000Z', end: '2024-11-14T18:56:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Omar Braham - American Airlines 3270 - departs 6:00 PM local time -', start: '2024-11-14T18:00:00.000Z', end: '2024-11-14T18:56:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Save the Date: Q4 Townhall', start: '2024-11-15T14:30:00.000Z', end: '2024-11-15T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Pop-up Meeting (RC to Unit Rollout)', start: '2024-11-17T15:00:00.000Z', end: '2024-11-17T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Private Appointment', start: '2024-11-17T19:41:00.000Z', end: '2024-11-17T20:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Omar Braham - American Airlines 3270 - departs 7:41 PM local time -', start: '2024-11-17T19:41:00.000Z', end: '2024-11-17T20:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Private Appointment', start: '2024-11-17T22:30:00.000Z', end: '2024-11-17T23:59:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Omar Braham - American Airlines 5911 - departs 10:30 PM local time', start: '2024-11-17T22:30:00.000Z', end: '2024-11-17T23:59:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Palace - FD Bi-weekly', start: '2024-11-18T10:00:00.000Z', end: '2024-11-18T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Front Desk Training Prep', start: '2024-11-18T10:00:00.000Z', end: '2024-11-18T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'CRO Weekly Meeting', start: '2024-11-18T13:00:00.000Z', end: '2024-11-18T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2024-11-19T11:00:00.000Z', end: '2024-11-19T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Tableau', start: '2024-11-19T18:00:00.000Z', end: '2024-11-19T18:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Omar Braham - American Airlines 5852 - departs 11:17 AM local time', start: '2024-11-20T11:17:00.000Z', end: '2024-11-20T12:51:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Private Appointment', start: '2024-11-20T11:17:00.000Z', end: '2024-11-20T12:51:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Private Appointment', start: '2024-11-20T13:40:00.000Z', end: '2024-11-20T15:25:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Omar Braham - American Airlines 698 - departs 1:40 PM local time -', start: '2024-11-20T13:40:00.000Z', end: '2024-11-20T15:25:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'GM Monthly Meeting', start: '2024-11-20T14:30:00.000Z', end: '2024-11-20T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'GM Monthly Meeting', start: '2024-11-21T13:00:00.000Z', end: '2024-11-21T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-11-21T15:00:00.000Z', end: '2024-11-21T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-11-21T15:00:00.000Z', end: '2024-11-21T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Leadership Essentials Overview', start: '2024-11-22T09:30:00.000Z', end: '2024-11-22T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Myrtle Beach - FD Monthly', start: '2024-11-22T10:00:00.000Z', end: '2024-11-22T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'TeamsGiving Potluck [In-person]', start: '2024-11-22T12:00:00.000Z', end: '2024-11-22T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'WG Towers Labor Standards', start: '2024-11-22T14:00:00.000Z', end: '2024-11-22T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: CRO Weekly Meeting', start: '2024-11-25T13:00:00.000Z', end: '2024-11-25T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2024-11-26T11:00:00.000Z', end: '2024-11-26T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Cocoa One on One', start: '2024-11-26T15:00:00.000Z', end: '2024-11-26T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-11-27T08:00:00.000Z', end: '2024-11-27T09:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-11-27T08:00:00.000Z', end: '2024-11-27T09:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'OFF', start: '2024-11-27T08:00:00.000Z', end: '2024-11-29T18:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Break', start: '2024-11-27T12:00:00.000Z', end: '2024-11-27T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Branson Lakes FD Monthly', start: '2024-11-27T13:00:00.000Z', end: '2024-11-27T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FD Bi-weekly (Flamingo)', start: '2024-11-28T15:00:00.000Z', end: '2024-11-28T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: Palace- Rate Code to Unit Training', start: '2024-11-29T14:45:00.000Z', end: '2024-11-29T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Customer service Doc review', start: '2024-12-02T11:00:00.000Z', end: '2024-12-02T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'CRO Weekly Meeting', start: '2024-12-02T13:00:00.000Z', end: '2024-12-02T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2024-12-03T11:00:00.000Z', end: '2024-12-03T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Discuss Guest Service Module Feedback Comments', start: '2024-12-03T11:00:00.000Z', end: '2024-12-03T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'BW - Monthly', start: '2024-12-03T14:00:00.000Z', end: '2024-12-03T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Tableau Discussion', start: '2024-12-03T14:30:00.000Z', end: '2024-12-03T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'RC to unit type - report', start: '2024-12-04T14:00:00.000Z', end: '2024-12-04T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'RC to Unit type (Villas)', start: '2024-12-05T11:00:00.000Z', end: '2024-12-05T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: ' nmnm', start: '2024-12-05T14:00:00.000Z', end: '2024-12-05T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-12-05T14:00:00.000Z', end: '2024-12-05T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-12-05T14:00:00.000Z', end: '2024-12-05T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Housekeeping meeting', start: '2024-12-06T11:00:00.000Z', end: '2024-12-06T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'HSKP Mthly', start: '2024-12-06T11:00:00.000Z', end: '2024-12-06T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Phase 2 Prep Training', start: '2024-12-06T13:00:00.000Z', end: '2024-12-06T14:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Tableau Discussion', start: '2024-12-06T14:00:00.000Z', end: '2024-12-06T14:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Reports', start: '2024-12-06T14:30:00.000Z', end: '2024-12-06T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Introduction Meet', start: '2024-12-06T17:30:00.000Z', end: '2024-12-06T18:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'PBX team', start: '2024-12-09T10:00:00.000Z', end: '2024-12-09T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Tableau/FDC - Discussion', start: '2024-12-09T11:00:00.000Z', end: '2024-12-09T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Corp PBX', start: '2024-12-09T15:00:00.000Z', end: '2024-12-09T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Training', start: '2024-12-09T16:15:00.000Z', end: '2024-12-09T16:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-12-10T10:00:00.000Z', end: '2024-12-10T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-12-10T10:00:00.000Z', end: '2024-12-10T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2024-12-10T11:00:00.000Z', end: '2024-12-10T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Phase 2 Prep Training', start: '2024-12-10T13:00:00.000Z', end: '2024-12-10T14:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Resorts Unit Type Review', start: '2024-12-10T16:00:00.000Z', end: '2024-12-10T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Touchbase: Omar & Ray - Lobby', start: '2024-12-11T09:00:00.000Z', end: '2024-12-11T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Omar to Call Steph', start: '2024-12-11T10:00:00.000Z', end: '2024-12-11T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Corporate TSAT - review and action plan', start: '2024-12-11T11:00:00.000Z', end: '2024-12-11T12:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Corp PBX follow-up', start: '2024-12-11T14:00:00.000Z', end: '2024-12-11T14:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Park City Meet - Director', start: '2024-12-11T14:00:00.000Z', end: '2024-12-11T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Training Touchbase', start: '2024-12-11T15:30:00.000Z', end: '2024-12-11T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Reports', start: '2024-12-11T16:00:00.000Z', end: '2024-12-11T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Smoky catch up', start: '2024-12-11T16:00:00.000Z', end: '2024-12-11T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Smoky Catch up', start: '2024-12-12T10:00:00.000Z', end: '2024-12-12T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Hold for O', start: '2024-12-12T13:00:00.000Z', end: '2024-12-12T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Corp PBX call', start: '2024-12-12T13:00:00.000Z', end: '2024-12-12T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Omar - Performance Evaluation', start: '2024-12-12T15:00:00.000Z', end: '2024-12-12T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: FDC Training Update', start: '2024-12-12T16:00:00.000Z', end: '2024-12-12T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: Kipsu', start: '2024-12-13T09:00:00.000Z', end: '2024-12-13T09:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Updates', start: '2024-12-13T09:30:00.000Z', end: '2024-12-13T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Villas VIP Bi-weekly', start: '2024-12-13T12:00:00.000Z', end: '2024-12-13T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Phase 2 Prep Training', start: '2024-12-13T13:00:00.000Z', end: '2024-12-13T14:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Medallia In-stays', start: '2024-12-13T11:30:00.000Z', end: '2024-12-13T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Park city', start: '2024-12-13T15:00:00.000Z', end: '2024-12-13T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: 2025 RPM Processes', start: '2024-12-13T15:00:00.000Z', end: '2024-12-13T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Omar and Becky Meet', start: '2024-12-13T13:00:00.000Z', end: '2024-12-13T13:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Omar Call [Kipsu Las Vegas]', start: '2024-12-13T16:00:00.000Z', end: '2024-12-13T16:10:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'reports', start: '2024-12-13T19:00:00.000Z', end: '2024-12-13T21:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Phase 2 Rollout', start: '2024-12-16T10:00:00.000Z', end: '2024-12-16T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'CRO Weekly Meeting', start: '2024-12-16T13:00:00.000Z', end: '2024-12-16T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Rollout Plan', start: '2024-12-16T15:00:00.000Z', end: '2024-12-16T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2024-12-17T11:00:00.000Z', end: '2024-12-17T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC/Sales update', start: '2024-12-17T12:00:00.000Z', end: '2024-12-17T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Welcome Center /FDC', start: '2024-12-17T13:00:00.000Z', end: '2024-12-17T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Villas RC to Unit Type', start: '2024-12-17T14:30:00.000Z', end: '2024-12-17T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Reports', start: '2024-12-17T15:00:00.000Z', end: '2024-12-17T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-12-17T17:00:00.000Z', end: '2024-12-17T18:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-12-17T17:00:00.000Z', end: '2024-12-17T18:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Save The Date: [Holiday Team Outing]', start: '2024-12-18T11:30:00.000Z', end: '2024-12-18T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Phase 2 Prep Training', start: '2024-12-18T13:00:00.000Z', end: '2024-12-18T14:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Report', start: '2024-12-18T15:45:00.000Z', end: '2024-12-18T16:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'One-on-one : Omar', start: '2024-12-19T08:00:00.000Z', end: '2024-12-19T09:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Call johana/Jenson', start: '2024-12-19T10:00:00.000Z', end: '2024-12-19T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Kipsu', start: '2024-12-19T11:30:00.000Z', end: '2024-12-19T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'GM Monthly Meeting', start: '2024-12-19T13:30:00.000Z', end: '2024-12-19T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'PC Meet', start: '2024-12-19T15:30:00.000Z', end: '2024-12-19T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FOLLOW-UP | MEDALLIA - KIPSU', start: '2024-12-19T13:30:00.000Z', end: '2024-12-19T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Quick Meeting to Discuss FDC Rollout / Virtual Units', start: '2024-12-20T10:00:00.000Z', end: '2024-12-20T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Painted Mountain Monthly', start: '2024-12-20T13:00:00.000Z', end: '2024-12-20T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Greeter slip', start: '2024-12-20T14:00:00.000Z', end: '2024-12-20T14:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: '(Pop-up Meeting) Greeter slip discussion', start: '2024-12-20T15:00:00.000Z', end: '2024-12-20T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Training Plan Update', start: '2024-12-23T11:00:00.000Z', end: '2024-12-23T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: CRO Weekly Meeting', start: '2024-12-23T13:00:00.000Z', end: '2024-12-23T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-12-23T15:30:00.000Z', end: '2024-12-23T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-12-23T15:30:00.000Z', end: '2024-12-23T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Tech Needs', start: '2024-12-23T16:30:00.000Z', end: '2024-12-23T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'ADP/Labor Standards: Cocoa, P Mountains, Flamingo, P City, Will', start: '2024-12-24T10:00:00.000Z', end: '2024-12-24T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Labor Standard', start: '2024-12-24T10:00:00.000Z', end: '2024-12-24T13:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2024-12-24T11:00:00.000Z', end: '2024-12-24T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC/OPC', start: '2024-12-24T13:00:00.000Z', end: '2024-12-24T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Park City Bi-Weekly', start: '2024-12-24T15:00:00.000Z', end: '2024-12-24T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'NYC travel plans', start: '2024-12-25T09:30:00.000Z', end: '2024-12-25T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Myrtle Beach - FD Monthly', start: '2024-12-27T10:00:00.000Z', end: '2024-12-27T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FO Monthly Meeting', start: '2024-12-27T13:00:00.000Z', end: '2024-12-27T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Status 18', start: '2024-12-29T14:00:00.000Z', end: '2024-12-29T14:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-12-30T11:00:00.000Z', end: '2024-12-30T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC/SME updates', start: '2024-12-30T11:00:00.000Z', end: '2024-12-30T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2024-12-30T11:00:00.000Z', end: '2024-12-30T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'CRO Weekly Meeting', start: '2024-12-30T14:30:00.000Z', end: '2024-12-30T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Touchbase', start: '2024-12-30T16:30:00.000Z', end: '2024-12-30T17:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Kipsu Messaging Update and Dashboard Review', start: '2024-12-31T09:30:00.000Z', end: '2024-12-31T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'ADP/Labor Standards: Park City', start: '2024-12-31T10:00:00.000Z', end: '2024-12-31T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: Meet with Construction team and Villa Operations Team', start: '2024-12-31T11:00:00.000Z', end: '2024-12-31T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Inventory - Losy', start: '2024-12-31T11:00:00.000Z', end: '2024-12-31T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'OFF', start: '2025-01-01T12:00:00.000Z', end: '2025-01-03T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Regroup', start: '2025-01-03T08:30:00.000Z', end: '2025-01-03T09:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Water park vouchers / FDC', start: '2025-01-03T09:30:00.000Z', end: '2025-01-03T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Reports', start: '2025-01-03T11:00:00.000Z', end: '2025-01-03T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Phase 2 Prep Training', start: '2025-01-03T13:00:00.000Z', end: '2025-01-03T14:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Reports', start: '2025-01-04T10:30:00.000Z', end: '2025-01-04T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'SME class', start: '2025-01-06T06:00:00.000Z', end: '2025-01-06T09:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Teachback Updates', start: '2025-01-06T09:30:00.000Z', end: '2025-01-06T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Phase 2 Teach Back- Rey', start: '2025-01-06T12:00:00.000Z', end: '2025-01-06T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'CRO Weekly Meeting', start: '2025-01-06T14:30:00.000Z', end: '2025-01-06T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Phase 2 Teach Back', start: '2025-01-06T15:00:00.000Z', end: '2025-01-06T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Update', start: '2025-01-06T16:30:00.000Z', end: '2025-01-06T17:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Final Review - Guest Services Labor Standards', start: '2025-01-07T09:00:00.000Z', end: '2025-01-07T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Lakes - FDC phase 1', start: '2025-01-07T09:00:00.000Z', end: '2025-01-07T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2025-01-07T11:00:00.000Z', end: '2025-01-07T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'LAKES RC to UT final', start: '2025-01-08T10:00:00.000Z', end: '2025-01-08T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Training Updates - Omar', start: '2025-01-08T11:00:00.000Z', end: '2025-01-08T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Preparation - Uniform Meeting', start: '2025-01-08T11:30:00.000Z', end: '2025-01-08T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Omar Braham - Delta Air Lines 2239 - departs 5:59 PM local time - C', start: '2025-01-08T17:59:00.000Z', end: '2025-01-08T20:48:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Private Appointment', start: '2025-01-08T17:59:00.000Z', end: '2025-01-08T20:48:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC training', start: '2025-01-09T08:00:00.000Z', end: '2025-01-09T18:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Resort Operations - Uniform Samples Review', start: '2025-01-09T15:00:00.000Z', end: '2025-01-09T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Demo/Reports', start: '2025-01-09T16:00:00.000Z', end: '2025-01-09T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC training', start: '2025-01-10T09:00:00.000Z', end: '2025-01-10T17:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Touchbase', start: '2025-01-10T16:00:00.000Z', end: '2025-01-10T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Villas rollout Prep', start: '2025-01-11T09:30:00.000Z', end: '2025-01-11T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Greeter slip/water park discussion', start: '2025-01-12T14:00:00.000Z', end: '2025-01-12T14:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Omar Braham - Delta Air Lines 2540 - departs 7:55 PM local time - C', start: '2025-01-12T19:55:00.000Z', end: '2025-01-12T22:58:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Private Appointment', start: '2025-01-12T19:55:00.000Z', end: '2025-01-12T22:58:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Training', start: '2025-01-13T10:00:00.000Z', end: '2025-01-13T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Resort Ops Insight Meetings - Guest Services', start: '2025-01-13T14:00:00.000Z', end: '2025-01-13T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2025-01-14T11:00:00.000Z', end: '2025-01-14T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'National Directors’ Participation – General Managers Conference', start: '2025-01-14T17:00:00.000Z', end: '2025-01-15T17:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'HK/FD CALL', start: '2025-01-15T07:30:00.000Z', end: '2025-01-15T07:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Smoky monthly', start: '2025-01-15T14:00:00.000Z', end: '2025-01-15T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'General Manager Conference Gala', start: '2025-01-16T18:30:00.000Z', end: '2025-01-16T22:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Off', start: '2025-01-17T06:45:00.000Z', end: '2025-01-17T20:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Villas - Salto/FDC Connection', start: '2025-01-20T09:00:00.000Z', end: '2025-01-20T12:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Housekeeping/FDC', start: '2025-01-20T15:00:00.000Z', end: '2025-01-20T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'HK FDC Access', start: '2025-01-21T09:30:00.000Z', end: '2025-01-21T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2025-01-21T11:00:00.000Z', end: '2025-01-21T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Pop-up Meeting (FDC phase 2 - Prep)', start: '2025-01-21T13:00:00.000Z', end: '2025-01-21T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC phase 2 - call follow up', start: '2025-01-21T14:00:00.000Z', end: '2025-01-21T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Discuss on Salto/MR/FDC concerns', start: '2025-01-21T16:00:00.000Z', end: '2025-01-21T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Tableau training', start: '2025-01-21T16:00:00.000Z', end: '2025-01-21T17:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Demo', start: '2025-01-22T09:30:00.000Z', end: '2025-01-22T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Training Updates - Omar', start: '2025-01-22T11:00:00.000Z', end: '2025-01-22T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Owner Engagement Objectives', start: '2025-01-22T14:00:00.000Z', end: '2025-01-22T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC SME Final Prep', start: '2025-01-22T15:00:00.000Z', end: '2025-01-22T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'River Terrace/Wild Bear FDC Phase 2', start: '2025-01-23T09:00:00.000Z', end: '2025-01-23T12:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'River Terrace/Wild Bear FDC Phase 2', start: '2025-01-23T14:00:00.000Z', end: '2025-01-23T17:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Palace', start: '2025-01-24T08:00:00.000Z', end: '2025-01-24T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'IE & IE-Greeter', start: '2025-01-24T10:00:00.000Z', end: '2025-01-24T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Phase 2 Training: Leadership', start: '2025-01-24T10:00:00.000Z', end: '2025-01-24T13:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'MR Questions', start: '2025-01-24T13:00:00.000Z', end: '2025-01-24T13:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Reports', start: '2025-01-24T13:30:00.000Z', end: '2025-01-24T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Greeter app', start: '2025-01-25T09:00:00.000Z', end: '2025-01-25T09:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Phase 2 Training', start: '2025-01-25T12:00:00.000Z', end: '2025-01-25T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC demo', start: '2025-01-27T10:00:00.000Z', end: '2025-01-27T10:10:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'CRO Weekly Meeting', start: '2025-01-27T13:30:00.000Z', end: '2025-01-27T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'SOP Discussion (Blocks/Permission)', start: '2025-01-28T09:05:00.000Z', end: '2025-01-28T10:05:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2025-01-28T11:00:00.000Z', end: '2025-01-28T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Game Room - Complimentary Card Initiative', start: '2025-01-28T16:00:00.000Z', end: '2025-01-28T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'off', start: '2025-01-29T07:00:00.000Z', end: '2025-01-30T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2025-01-29T10:00:00.000Z', end: '2025-01-29T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2025-01-29T10:00:00.000Z', end: '2025-01-29T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Front Desk Console Discussion', start: '2025-01-29T15:30:00.000Z', end: '2025-01-29T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Block for reports', start: '2025-01-31T08:30:00.000Z', end: '2025-01-31T18:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Reports', start: '2025-01-31T10:10:00.000Z', end: '2025-01-31T11:10:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Pop-up Meeting (Maintenance Hold)', start: '2025-02-02T10:00:00.000Z', end: '2025-02-02T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Discuss Salto Concerns', start: '2025-02-03T11:00:00.000Z', end: '2025-02-03T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Front Desk Hold Process', start: '2025-02-03T14:30:00.000Z', end: '2025-02-03T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Pre-Registration', start: '2025-02-04T10:30:00.000Z', end: '2025-02-04T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2025-02-04T11:00:00.000Z', end: '2025-02-04T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'tableau', start: '2025-02-04T13:00:00.000Z', end: '2025-02-04T14:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2025-02-04T16:00:00.000Z', end: '2025-02-04T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2025-02-04T16:00:00.000Z', end: '2025-02-04T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'MIT', start: '2025-02-05T08:30:00.000Z', end: '2025-02-05T18:15:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'MIT Interview Event (Virtual - Main Room)', start: '2025-02-05T09:30:00.000Z', end: '2025-02-05T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'MIT Interview Event (Virtual - Main Room)', start: '2025-02-05T09:45:00.000Z', end: '2025-02-05T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'MIT Interview Event (In-Person)', start: '2025-02-05T10:00:00.000Z', end: '2025-02-05T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'MIT Interview: Michell Orozco & Omar Braham', start: '2025-02-05T10:00:00.000Z', end: '2025-02-05T10:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'MIT Interview: Sarai Avila & Omar Braham', start: '2025-02-05T11:00:00.000Z', end: '2025-02-05T11:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Tableau', start: '2025-02-07T08:45:00.000Z', end: '2025-02-07T11:15:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'HK/FD', start: '2025-02-08T10:15:00.000Z', end: '2025-02-08T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'test', start: '2025-02-10T16:45:00.000Z', end: '2025-02-10T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2025-02-11T11:00:00.000Z', end: '2025-02-11T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FD Dashboard', start: '2025-02-11T12:00:00.000Z', end: '2025-02-11T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Tableau Reports', start: '2025-02-11T13:00:00.000Z', end: '2025-02-11T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'HW - FD Monthly', start: '2025-02-11T14:00:00.000Z', end: '2025-02-11T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Park City Bi-Weekly', start: '2025-02-11T15:00:00.000Z', end: '2025-02-11T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2025-02-12T10:00:00.000Z', end: '2025-02-12T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2025-02-12T10:00:00.000Z', end: '2025-02-12T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Resort PBX Project', start: '2025-02-12T14:00:00.000Z', end: '2025-02-12T14:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'OPS page', start: '2025-02-12T14:45:00.000Z', end: '2025-02-12T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Cash in Owner Payment App', start: '2025-02-12T15:30:00.000Z', end: '2025-02-12T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'TOPBOX Review [Guest Services]', start: '2025-02-13T09:30:00.000Z', end: '2025-02-13T10:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'PBX Project recap', start: '2025-02-13T10:30:00.000Z', end: '2025-02-13T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Thank You Lunch', start: '2025-02-13T11:00:00.000Z', end: '2025-02-13T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Reports-HK', start: '2025-02-13T14:00:00.000Z', end: '2025-02-13T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Re: Upgrade Reservations (Comp/Team members, Friends & Family)', start: '2025-02-13T14:30:00.000Z', end: '2025-02-13T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'OPS page/Task', start: '2025-02-13T15:00:00.000Z', end: '2025-02-13T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Palace Inventory', start: '2025-02-13T16:00:00.000Z', end: '2025-02-13T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Report', start: '2025-02-14T08:30:00.000Z', end: '2025-02-14T09:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Contract and Rates - Process/Approval Reviews', start: '2025-02-14T10:00:00.000Z', end: '2025-02-14T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Tableau', start: '2025-02-14T13:30:00.000Z', end: '2025-02-14T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'OOO', start: '2025-02-16T00:00:00.000Z', end: '2025-02-16T23:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Ital', start: '2025-02-16T15:00:00.000Z', end: '2025-02-16T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Ops', start: '2025-02-16T16:00:00.000Z', end: '2025-02-16T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Email', start: '2025-02-16T17:00:00.000Z', end: '2025-02-16T18:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Excel', start: '2025-02-16T18:00:00.000Z', end: '2025-02-16T19:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'CRO Weekly Meeting', start: '2025-02-17T13:00:00.000Z', end: '2025-02-17T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'L&D Dataverse', start: '2025-02-17T15:00:00.000Z', end: '2025-02-17T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Online Collateral Catalog | Brainstorming Session', start: '2025-02-17T15:30:00.000Z', end: '2025-02-17T16:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2025-02-18T11:00:00.000Z', end: '2025-02-18T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Tableau Lunch & Learn [In-person] Save the date', start: '2025-02-18T12:00:00.000Z', end: '2025-02-18T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Maintenance Process', start: '2025-02-18T14:00:00.000Z', end: '2025-02-18T14:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Reports and Ops tools', start: '2025-02-18T16:00:00.000Z', end: '2025-02-18T17:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2025-02-19T08:00:00.000Z', end: '2025-02-19T09:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Resort Services/PBX', start: '2025-02-19T10:30:00.000Z', end: '2025-02-19T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Inventory system', start: '2025-02-19T12:00:00.000Z', end: '2025-02-19T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Communication', start: '2025-02-19T16:00:00.000Z', end: '2025-02-19T17:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: '20 February 2025 (AEDT) Mastering the Art of Conversation with Vinh', start: '2025-02-20T08:00:00.000Z', end: '2025-02-20T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'One-on-one : Omar', start: '2025-02-20T09:00:00.000Z', end: '2025-02-20T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Inventory meet', start: '2025-02-20T11:00:00.000Z', end: '2025-02-20T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'GM Monthly Meeting', start: '2025-02-20T13:00:00.000Z', end: '2025-02-20T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'WG Corporate Engineering - FDC Room Blocking Process', start: '2025-02-20T15:00:00.000Z', end: '2025-02-20T15:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Focus time (excel and tableau)', start: '2025-02-21T09:00:00.000Z', end: '2025-02-21T10:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training', start: '2025-02-21T11:00:00.000Z', end: '2025-02-21T12:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Inventory', start: '2025-02-21T14:00:00.000Z', end: '2025-02-21T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Inventory', start: '2025-02-21T14:00:00.000Z', end: '2025-02-21T15:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'CRO Weekly Meeting', start: '2025-02-24T13:00:00.000Z', end: '2025-02-24T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FW: Meet with Construction team and Villa Operations Team', start: '2025-02-25T11:00:00.000Z', end: '2025-02-25T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Room Charge Confirmation', start: '2025-02-25T12:00:00.000Z', end: '2025-02-25T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Follow Up', start: '2025-02-25T13:00:00.000Z', end: '2025-02-25T13:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Top Box Overview- Corporate National Directors', start: '2025-02-25T13:00:00.000Z', end: '2025-02-25T14:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Training Updates - Omar', start: '2025-02-26T08:00:00.000Z', end: '2025-02-26T09:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Front Desk Softwares', start: '2025-02-26T10:00:00.000Z', end: '2025-02-26T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Canceled: ADP WFM Labor Meeting', start: '2025-02-26T11:00:00.000Z', end: '2025-02-26T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Housekeeping', start: '2025-02-26T14:00:00.000Z', end: '2025-02-26T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Reports/Medallia and more', start: '2025-02-26T14:00:00.000Z', end: '2025-02-26T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'HK/FD CALL', start: '2025-02-27T07:30:00.000Z', end: '2025-02-27T07:45:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'SSL Meeting', start: '2025-02-27T10:00:00.000Z', end: '2025-02-27T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Towers Monthly', start: '2025-02-27T11:00:00.000Z', end: '2025-02-27T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Resort Ops/IT Project Review', start: '2025-02-27T14:00:00.000Z', end: '2025-02-27T15:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Labor Standard', start: '2025-02-27T15:00:00.000Z', end: '2025-02-27T16:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FDC Concerns', start: '2025-02-28T10:00:00.000Z', end: '2025-02-28T11:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Linked Res Discussion', start: '2025-02-28T11:00:00.000Z', end: '2025-02-28T11:30:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Omar - Follow up Labor Standards', start: '2025-02-28T11:30:00.000Z', end: '2025-02-28T12:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'Meeting', start: '2025-02-28T12:00:00.000Z', end: '2025-02-28T13:00:00.000Z'}
+Calendar.tsx:472 Raw Outlook event: {title: 'FO Monthly Meeting', start: '2025-02-28T13:00:00.000Z', end: '2025-02-28T14:00:00.000Z'}

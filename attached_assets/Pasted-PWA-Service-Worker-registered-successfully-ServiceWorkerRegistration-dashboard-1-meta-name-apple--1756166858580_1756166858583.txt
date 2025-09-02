@@ -1,0 +1,320 @@
+PWA: Service Worker registered successfully ServiceWorkerRegistration
+dashboard:1 <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes">
+dashboard:191 PWA: Install prompt available
+dashboard:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:305 🔍 CALENDAR SYNC DEBUG
+Calendar.tsx:306 isOutlookConnected: false
+Calendar.tsx:307 userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:308 userSettings?.outlookCalendarUrl: undefined
+Calendar.tsx:309 outlookEvents length: 0
+Calendar.tsx:310 activeOutlookEvents length: 0
+Calendar.tsx:311 Raw outlookEvents data: undefined
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:305 🔍 CALENDAR SYNC DEBUG
+Calendar.tsx:306 isOutlookConnected: false
+Calendar.tsx:307 userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:308 userSettings?.outlookCalendarUrl: undefined
+Calendar.tsx:309 outlookEvents length: 0
+Calendar.tsx:310 activeOutlookEvents length: 0
+Calendar.tsx:311 Raw outlookEvents data: undefined
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: undefined
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:305 🔍 CALENDAR SYNC DEBUG
+Calendar.tsx:306 isOutlookConnected: false
+Calendar.tsx:307 userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:308 userSettings?.outlookCalendarUrl: null
+Calendar.tsx:309 outlookEvents length: 0
+Calendar.tsx:310 activeOutlookEvents length: 0
+Calendar.tsx:311 Raw outlookEvents data: undefined
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:305 🔍 CALENDAR SYNC DEBUG
+Calendar.tsx:306 isOutlookConnected: false
+Calendar.tsx:307 userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:308 userSettings?.outlookCalendarUrl: null
+Calendar.tsx:309 outlookEvents length: 0
+Calendar.tsx:310 activeOutlookEvents length: 0
+Calendar.tsx:311 Raw outlookEvents data: undefined
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled
+Calendar.tsx:566 🎯 OUTLOOK EVENT PROCESSING CHECK:
+Calendar.tsx:567   isOutlookConnected: false
+Calendar.tsx:568   userSettings?.outlookCalendarEnabled: false
+Calendar.tsx:569   activeOutlookEvents length: 0
+Calendar.tsx:570   Will process Outlook events? false
+Calendar.tsx:620 ✅ OUTLOOK EVENTS SKIPPED - sync is disabled

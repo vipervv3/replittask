@@ -1,0 +1,73 @@
+ServiceWorkerRegistration {installing: null, waiting: null, active: ServiceWorker, navigationPreload: NavigationPreloadManager, scope: 'https://e996d604-832e-4243-bdcd-2b4f4e129dc6-00-do73ne2obqgq.picard.replit.dev/', …}
+dashboard:1 <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes">
+dashboard:191 PWA: Install prompt available
+dashboard:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+Calendar.tsx:569 🔍 DEBUGGING: FO summit
+Calendar.tsx:570   Server sent UTC: 2025-08-25T12:00:00.000Z
+Calendar.tsx:574   Converted to local: 8:00
+Calendar.tsx:569 🔍 DEBUGGING: L&D Dataverse
+Calendar.tsx:570   Server sent UTC: 2025-08-25T15:00:00.000Z
+Calendar.tsx:574   Converted to local: 11:00
+Calendar.tsx:569 🔍 DEBUGGING: FO summit
+Calendar.tsx:570   Server sent UTC: 2025-08-25T12:00:00.000Z
+Calendar.tsx:574   Converted to local: 8:00
+Calendar.tsx:569 🔍 DEBUGGING: L&D Dataverse
+Calendar.tsx:570   Server sent UTC: 2025-08-25T15:00:00.000Z
+Calendar.tsx:574   Converted to local: 11:00
+Calendar.tsx:1272 🎯 WEEK POSITION: L&D Dataverse -> time:11:00 AM -> hourNum:11 -> topPosition:528px
+Calendar.tsx:1272 🎯 WEEK POSITION: FO summit -> time:8:00 AM -> hourNum:8 -> topPosition:384px
+Calendar.tsx:569 🔍 DEBUGGING: FW: Meet with Construction team and Villa Operations Team
+Calendar.tsx:570   Server sent UTC: 2025-08-26T11:00:00.000Z
+Calendar.tsx:574   Converted to local: 7:00
+Calendar.tsx:569 🔍 DEBUGGING: HK/FD Meet
+Calendar.tsx:570   Server sent UTC: 2025-08-26T14:00:00.000Z
+Calendar.tsx:574   Converted to local: 10:00
+Calendar.tsx:569 🔍 DEBUGGING: L&D Dataverse
+Calendar.tsx:570   Server sent UTC: 2025-08-26T15:00:00.000Z
+Calendar.tsx:574   Converted to local: 11:00
+Calendar.tsx:1272 🎯 WEEK POSITION: HK/FD Meet -> time:10:00 AM -> hourNum:10 -> topPosition:480px
+Calendar.tsx:1272 🎯 WEEK POSITION: L&D Dataverse -> time:11:00 AM -> hourNum:11 -> topPosition:528px
+Calendar.tsx:1272 🎯 WEEK POSITION: FW: Meet with Construction team and Villa Operations Team -> time:7:00 AM -> hourNum:7 -> topPosition:336px
+Calendar.tsx:569 🔍 DEBUGGING: Training Updates - Omar [In-person]
+Calendar.tsx:570   Server sent UTC: 2025-08-27T09:00:00.000Z
+Calendar.tsx:574   Converted to local: 5:00
+Calendar.tsx:569 🔍 DEBUGGING: ADP WFM Labor Meeting
+Calendar.tsx:570   Server sent UTC: 2025-08-27T11:00:00.000Z
+Calendar.tsx:574   Converted to local: 7:00
+Calendar.tsx:569 🔍 DEBUGGING: GM Monthly Meeting
+Calendar.tsx:570   Server sent UTC: 2025-08-27T13:00:00.000Z
+Calendar.tsx:574   Converted to local: 9:00
+Calendar.tsx:569 🔍 DEBUGGING: L&D Dataverse
+Calendar.tsx:570   Server sent UTC: 2025-08-27T15:00:00.000Z
+Calendar.tsx:574   Converted to local: 11:00
+Calendar.tsx:1272 🎯 WEEK POSITION: L&D Dataverse -> time:11:00 AM -> hourNum:11 -> topPosition:528px
+Calendar.tsx:1272 🎯 WEEK POSITION: Training Updates - Omar [In-person] -> time:5:00 AM -> hourNum:5 -> topPosition:240px
+Calendar.tsx:1272 🎯 WEEK POSITION: ADP WFM Labor Meeting -> time:7:00 AM -> hourNum:7 -> topPosition:336px
+Calendar.tsx:1272 🎯 WEEK POSITION: GM Monthly Meeting -> time:9:00 AM -> hourNum:9 -> topPosition:432px
+Calendar.tsx:569 🔍 DEBUGGING: FO summit
+Calendar.tsx:570   Server sent UTC: 2025-08-25T12:00:00.000Z
+Calendar.tsx:574   Converted to local: 8:00
+Calendar.tsx:569 🔍 DEBUGGING: L&D Dataverse
+Calendar.tsx:570   Server sent UTC: 2025-08-25T15:00:00.000Z
+Calendar.tsx:574   Converted to local: 11:00
+Calendar.tsx:569 🔍 DEBUGGING: FW: Meet with Construction team and Villa Operations Team
+Calendar.tsx:570   Server sent UTC: 2025-08-26T11:00:00.000Z
+Calendar.tsx:574   Converted to local: 7:00
+Calendar.tsx:569 🔍 DEBUGGING: HK/FD Meet
+Calendar.tsx:570   Server sent UTC: 2025-08-26T14:00:00.000Z
+Calendar.tsx:574   Converted to local: 10:00
+Calendar.tsx:569 🔍 DEBUGGING: L&D Dataverse
+Calendar.tsx:570   Server sent UTC: 2025-08-26T15:00:00.000Z
+Calendar.tsx:574   Converted to local: 11:00
+Calendar.tsx:569 🔍 DEBUGGING: Training Updates - Omar [In-person]
+Calendar.tsx:570   Server sent UTC: 2025-08-27T09:00:00.000Z
+Calendar.tsx:574   Converted to local: 5:00
+Calendar.tsx:569 🔍 DEBUGGING: ADP WFM Labor Meeting
+Calendar.tsx:570   Server sent UTC: 2025-08-27T11:00:00.000Z
+Calendar.tsx:574   Converted to local: 7:00
+Calendar.tsx:569 🔍 DEBUGGING: GM Monthly Meeting
+Calendar.tsx:570   Server sent UTC: 2025-08-27T13:00:00.000Z
+Calendar.tsx:574   Converted to local: 9:00
+Calendar.tsx:569 🔍 DEBUGGING: L&D Dataverse
+Calendar.tsx:570   Server sent UTC: 2025-08-27T15:00:00.000Z
+Calendar.tsx:574   Converted to local: 11:00

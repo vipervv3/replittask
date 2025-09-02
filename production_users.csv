@@ -1,0 +1,7 @@
+id,username,email,password,name,role,avatar,created_at
+b671eb82-abc1-424f-8bdf-30cc749e5ec9,demo_user,demo@example.com,password,Demo User,admin,,2025-08-15 04:30:00.45564
+fa61166b-1715-4ac7-8d40-e701475c9e2f,braham_62,braham_62@yahoo.com,$2b$10$QXW/mSvNJsfVKoPYuvrJmOOmEBG8wOY6ihp56oxC1xQbTZ2GgTjeW,test2,member,,2025-08-15 17:35:54.020754
+0552ab10-1b7f-47fc-954c-d80119749d49,dewattie_persaud,dewattie_persaud@wgresorts.com,$2b$10$tPXAlBNu0v2N5EEl.Tw7W./suXVNzbIx/l9bmdp2Rjy8LOlcgheLW,Devi,member,,2025-08-25 14:31:50.773776
+dde53e65-d861-4340-b0a6-3417e0e7b290,viperv18,omar_braham@wgresorts.com,$2b$10$lRqs96gbu/1Kyw/0pFfSSO94uxDejLt.Knr2.bd/OvMon2DpotR/C,Omar,member,,2025-08-15 17:27:45.1827
+3ebabc74-40a8-4ac8-b616-9d549317f9cd,Alex_motes,Alex_motes@wgresorts.com,$2b$10$eE9uzM/T0ww6yFXG5V7kuersyv.iKiZ5ldING.yBrjEFu0e47ybqe,Alex Motes,member,,2025-08-27 12:44:02.508258
+3003d931-a3da-497c-9879-4abc9eee2454,stephanie_ketron,stephanie_ketron@wgresorts.com,$2b$10$Ur5WWdOlXFVKDSztDM.0tesqOvSsAjLX52pGXS136rhcyjZ/9Q5oa,Steph,member,,2025-08-15 17:40:25.837262

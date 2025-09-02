@@ -1,0 +1,61 @@
+rec_1756518870342_4tljhco3v successfully processed, removing from local storage
+sw.js:15 Service Worker: Installing...
+sw.js:19 Service Worker: Caching essential files
+sw.js:23 Service Worker: Installation complete
+chunk-KTSEXZKA.js?v=83fbfcd6:337 Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+(anonymous) @ chunk-KTSEXZKA.js?v=83fbfcd6:337
+sw.js:34 Service Worker: Activating...
+sw.js:41 Service Worker: Deleting old cache static-v1
+sw.js:41 Service Worker: Deleting old cache dynamic-v1
+sw.js:48 Service Worker: Activation complete
+api/external-meetings/outlook-040000008200E00074C5B7101A82E008000000005060C2AF390DDB01000000000000000/link-project:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+ExternalMeetingProjectLinker.tsx:71  PUT https://e996d604-832e-4243-bdcd-2b4f4e129dc6-00-do73ne2obqgq.picard.replit.dev/api/external-meetings/outlook-040000008200E00074C5B7101A82E008000000005060C2AF390DDB01000000000000000/link-project 500 (Internal Server Error)
+mutationFn @ ExternalMeetingProjectLinker.tsx:71
+fn @ @tanstack_react-query.js?v=83fbfcd6:1189
+run @ @tanstack_react-query.js?v=83fbfcd6:494
+start @ @tanstack_react-query.js?v=83fbfcd6:536
+execute @ @tanstack_react-query.js?v=83fbfcd6:1225
+await in execute
+mutate @ @tanstack_react-query.js?v=83fbfcd6:2630
+(anonymous) @ @tanstack_react-query.js?v=83fbfcd6:3295
+handleLinkToProject @ ExternalMeetingProjectLinker.tsx:119
+callCallback2 @ chunk-RPCDYKBN.js?v=83fbfcd6:3674
+invokeGuardedCallbackDev @ chunk-RPCDYKBN.js?v=83fbfcd6:3699
+invokeGuardedCallback @ chunk-RPCDYKBN.js?v=83fbfcd6:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-RPCDYKBN.js?v=83fbfcd6:3736
+executeDispatch @ chunk-RPCDYKBN.js?v=83fbfcd6:7014
+processDispatchQueueItemsInOrder @ chunk-RPCDYKBN.js?v=83fbfcd6:7034
+processDispatchQueue @ chunk-RPCDYKBN.js?v=83fbfcd6:7043
+dispatchEventsForPlugins @ chunk-RPCDYKBN.js?v=83fbfcd6:7051
+(anonymous) @ chunk-RPCDYKBN.js?v=83fbfcd6:7174
+batchedUpdates$1 @ chunk-RPCDYKBN.js?v=83fbfcd6:18913
+batchedUpdates @ chunk-RPCDYKBN.js?v=83fbfcd6:3579
+dispatchEventForPluginEventSystem @ chunk-RPCDYKBN.js?v=83fbfcd6:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-RPCDYKBN.js?v=83fbfcd6:5478
+dispatchEvent @ chunk-RPCDYKBN.js?v=83fbfcd6:5472
+dispatchDiscreteEvent @ chunk-RPCDYKBN.js?v=83fbfcd6:5449
+ExternalMeetingProjectLinker.tsx:71  PUT https://e996d604-832e-4243-bdcd-2b4f4e129dc6-00-do73ne2obqgq.picard.replit.dev/api/external-meetings/outlook-040000008200E00074C5B7101A82E008000000005060C2AF390DDB01000000000000000/link-project 500 (Internal Server Error)
+mutationFn @ ExternalMeetingProjectLinker.tsx:71
+fn @ @tanstack_react-query.js?v=83fbfcd6:1189
+run @ @tanstack_react-query.js?v=83fbfcd6:494
+start @ @tanstack_react-query.js?v=83fbfcd6:536
+execute @ @tanstack_react-query.js?v=83fbfcd6:1225
+await in execute
+mutate @ @tanstack_react-query.js?v=83fbfcd6:2630
+(anonymous) @ @tanstack_react-query.js?v=83fbfcd6:3295
+handleLinkToProject @ ExternalMeetingProjectLinker.tsx:119
+callCallback2 @ chunk-RPCDYKBN.js?v=83fbfcd6:3674
+invokeGuardedCallbackDev @ chunk-RPCDYKBN.js?v=83fbfcd6:3699
+invokeGuardedCallback @ chunk-RPCDYKBN.js?v=83fbfcd6:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-RPCDYKBN.js?v=83fbfcd6:3736
+executeDispatch @ chunk-RPCDYKBN.js?v=83fbfcd6:7014
+processDispatchQueueItemsInOrder @ chunk-RPCDYKBN.js?v=83fbfcd6:7034
+processDispatchQueue @ chunk-RPCDYKBN.js?v=83fbfcd6:7043
+dispatchEventsForPlugins @ chunk-RPCDYKBN.js?v=83fbfcd6:7051
+(anonymous) @ chunk-RPCDYKBN.js?v=83fbfcd6:7174
+batchedUpdates$1 @ chunk-RPCDYKBN.js?v=83fbfcd6:18913
+batchedUpdates @ chunk-RPCDYKBN.js?v=83fbfcd6:3579
+dispatchEventForPluginEventSystem @ chunk-RPCDYKBN.js?v=83fbfcd6:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-RPCDYKBN.js?v=83fbfcd6:5478
+dispatchEvent @ chunk-RPCDYKBN.js?v=83fbfcd6:5472
+dispatchDiscreteEvent @ chunk-RPCDYKBN.js?v=83fbfcd6:5449

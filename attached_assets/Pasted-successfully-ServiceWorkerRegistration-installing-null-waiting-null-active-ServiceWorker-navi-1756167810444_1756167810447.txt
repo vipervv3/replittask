@@ -1,0 +1,157 @@
+successfully ServiceWorkerRegistration {installing: null, waiting: null, active: ServiceWorker, navigationPreload: NavigationPreloadManager, scope: 'https://e996d604-832e-4243-bdcd-2b4f4e129dc6-00-do73ne2obqgq.picard.replit.dev/', …}
+calendar:1 <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes">
+calendar:191 PWA: Install prompt available
+calendar:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+Calendar.tsx:570 🕒 Processing event time: FO summit Start: 2025-08-25T12:00:00.000Z
+Calendar.tsx:575   Parsed hour: 8 minute: 0
+Calendar.tsx:581   Final time string: 8:00 AM
+Calendar.tsx:570 🕒 Processing event time: L&D Dataverse Start: 2025-08-25T15:00:00.000Z
+Calendar.tsx:575   Parsed hour: 11 minute: 0
+Calendar.tsx:581   Final time string: 11:00 AM
+Calendar.tsx:570 🕒 Processing event time: FO summit Start: 2025-08-25T12:00:00.000Z
+Calendar.tsx:575   Parsed hour: 8 minute: 0
+Calendar.tsx:581   Final time string: 8:00 AM
+Calendar.tsx:570 🕒 Processing event time: L&D Dataverse Start: 2025-08-25T15:00:00.000Z
+Calendar.tsx:575   Parsed hour: 11 minute: 0
+Calendar.tsx:581   Final time string: 11:00 AM
+Calendar.tsx:1277 📍 WEEK POSITIONING: L&D Dataverse at 11:00 AM -> hour:11 minute:0 -> position:528px
+Calendar.tsx:1277 📍 WEEK POSITIONING: FO summit at 8:00 AM -> hour:8 minute:0 -> position:384px
+Calendar.tsx:570 🕒 Processing event time: FW: Meet with Construction team and Villa Operations Team Start: 2025-08-26T11:00:00.000Z
+Calendar.tsx:575   Parsed hour: 7 minute: 0
+Calendar.tsx:581   Final time string: 7:00 AM
+Calendar.tsx:570 🕒 Processing event time: HK/FD Meet Start: 2025-08-26T14:00:00.000Z
+Calendar.tsx:575   Parsed hour: 10 minute: 0
+Calendar.tsx:581   Final time string: 10:00 AM
+Calendar.tsx:570 🕒 Processing event time: L&D Dataverse Start: 2025-08-26T15:00:00.000Z
+Calendar.tsx:575   Parsed hour: 11 minute: 0
+Calendar.tsx:581   Final time string: 11:00 AM
+Calendar.tsx:1277 📍 WEEK POSITIONING: HK/FD Meet at 10:00 AM -> hour:10 minute:0 -> position:480px
+Calendar.tsx:1277 📍 WEEK POSITIONING: L&D Dataverse at 11:00 AM -> hour:11 minute:0 -> position:528px
+Calendar.tsx:1277 📍 WEEK POSITIONING: FW: Meet with Construction team and Villa Operations Team at 7:00 AM -> hour:7 minute:0 -> position:336px
+Calendar.tsx:570 🕒 Processing event time: Training Updates - Omar [In-person] Start: 2025-08-27T09:00:00.000Z
+Calendar.tsx:575   Parsed hour: 5 minute: 0
+Calendar.tsx:581   Final time string: 5:00 AM
+Calendar.tsx:570 🕒 Processing event time: ADP WFM Labor Meeting Start: 2025-08-27T11:00:00.000Z
+Calendar.tsx:575   Parsed hour: 7 minute: 0
+Calendar.tsx:581   Final time string: 7:00 AM
+Calendar.tsx:570 🕒 Processing event time: GM Monthly Meeting Start: 2025-08-27T13:00:00.000Z
+Calendar.tsx:575   Parsed hour: 9 minute: 0
+Calendar.tsx:581   Final time string: 9:00 AM
+Calendar.tsx:570 🕒 Processing event time: L&D Dataverse Start: 2025-08-27T15:00:00.000Z
+Calendar.tsx:575   Parsed hour: 11 minute: 0
+Calendar.tsx:581   Final time string: 11:00 AM
+Calendar.tsx:1277 📍 WEEK POSITIONING: L&D Dataverse at 11:00 AM -> hour:11 minute:0 -> position:528px
+Calendar.tsx:1277 📍 WEEK POSITIONING: Training Updates - Omar [In-person] at 5:00 AM -> hour:5 minute:0 -> position:240px
+Calendar.tsx:1277 📍 WEEK POSITIONING: ADP WFM Labor Meeting at 7:00 AM -> hour:7 minute:0 -> position:336px
+Calendar.tsx:1277 📍 WEEK POSITIONING: GM Monthly Meeting at 9:00 AM -> hour:9 minute:0 -> position:432px
+Calendar.tsx:570 🕒 Processing event time: FO summit Start: 2025-08-25T12:00:00.000Z
+Calendar.tsx:575   Parsed hour: 8 minute: 0
+Calendar.tsx:581   Final time string: 8:00 AM
+Calendar.tsx:570 🕒 Processing event time: L&D Dataverse Start: 2025-08-25T15:00:00.000Z
+Calendar.tsx:575   Parsed hour: 11 minute: 0
+Calendar.tsx:581   Final time string: 11:00 AM
+Calendar.tsx:570 🕒 Processing event time: FW: Meet with Construction team and Villa Operations Team Start: 2025-08-26T11:00:00.000Z
+Calendar.tsx:575   Parsed hour: 7 minute: 0
+Calendar.tsx:581   Final time string: 7:00 AM
+Calendar.tsx:570 🕒 Processing event time: HK/FD Meet Start: 2025-08-26T14:00:00.000Z
+Calendar.tsx:575   Parsed hour: 10 minute: 0
+Calendar.tsx:581   Final time string: 10:00 AM
+Calendar.tsx:570 🕒 Processing event time: L&D Dataverse Start: 2025-08-26T15:00:00.000Z
+Calendar.tsx:575   Parsed hour: 11 minute: 0
+Calendar.tsx:581   Final time string: 11:00 AM
+Calendar.tsx:570 🕒 Processing event time: Training Updates - Omar [In-person] Start: 2025-08-27T09:00:00.000Z
+Calendar.tsx:575   Parsed hour: 5 minute: 0
+Calendar.tsx:581   Final time string: 5:00 AM
+Calendar.tsx:570 🕒 Processing event time: ADP WFM Labor Meeting Start: 2025-08-27T11:00:00.000Z
+Calendar.tsx:575   Parsed hour: 7 minute: 0
+Calendar.tsx:581   Final time string: 7:00 AM
+Calendar.tsx:570 🕒 Processing event time: GM Monthly Meeting Start: 2025-08-27T13:00:00.000Z
+Calendar.tsx:575   Parsed hour: 9 minute: 0
+Calendar.tsx:581   Final time string: 9:00 AM
+Calendar.tsx:570 🕒 Processing event time: L&D Dataverse Start: 2025-08-27T15:00:00.000Z
+Calendar.tsx:575   Parsed hour: 11 minute: 0
+Calendar.tsx:581   Final time string: 11:00 AM
+Calendar.tsx:570 🕒 Processing event time: FO summit Start: 2025-08-25T12:00:00.000Z
+Calendar.tsx:575   Parsed hour: 8 minute: 0
+Calendar.tsx:581   Final time string: 8:00 AM
+Calendar.tsx:570 🕒 Processing event time: L&D Dataverse Start: 2025-08-25T15:00:00.000Z
+Calendar.tsx:575   Parsed hour: 11 minute: 0
+Calendar.tsx:581   Final time string: 11:00 AM
+Calendar.tsx:570 🕒 Processing event time: FO summit Start: 2025-08-25T12:00:00.000Z
+Calendar.tsx:575   Parsed hour: 8 minute: 0
+Calendar.tsx:581   Final time string: 8:00 AM
+Calendar.tsx:570 🕒 Processing event time: L&D Dataverse Start: 2025-08-25T15:00:00.000Z
+Calendar.tsx:575   Parsed hour: 11 minute: 0
+Calendar.tsx:581   Final time string: 11:00 AM
+Calendar.tsx:1277 📍 WEEK POSITIONING: L&D Dataverse at 11:00 AM -> hour:11 minute:0 -> position:528px
+Calendar.tsx:1277 📍 WEEK POSITIONING: FO summit at 8:00 AM -> hour:8 minute:0 -> position:384px
+Calendar.tsx:570 🕒 Processing event time: FW: Meet with Construction team and Villa Operations Team Start: 2025-08-26T11:00:00.000Z
+Calendar.tsx:575   Parsed hour: 7 minute: 0
+Calendar.tsx:581   Final time string: 7:00 AM
+Calendar.tsx:570 🕒 Processing event time: HK/FD Meet Start: 2025-08-26T14:00:00.000Z
+Calendar.tsx:575   Parsed hour: 10 minute: 0
+Calendar.tsx:581   Final time string: 10:00 AM
+Calendar.tsx:570 🕒 Processing event time: L&D Dataverse Start: 2025-08-26T15:00:00.000Z
+Calendar.tsx:575   Parsed hour: 11 minute: 0
+Calendar.tsx:581   Final time string: 11:00 AM
+Calendar.tsx:1277 📍 WEEK POSITIONING: HK/FD Meet at 10:00 AM -> hour:10 minute:0 -> position:480px
+Calendar.tsx:1277 📍 WEEK POSITIONING: L&D Dataverse at 11:00 AM -> hour:11 minute:0 -> position:528px
+Calendar.tsx:1277 📍 WEEK POSITIONING: FW: Meet with Construction team and Villa Operations Team at 7:00 AM -> hour:7 minute:0 -> position:336px
+Calendar.tsx:570 🕒 Processing event time: Training Updates - Omar [In-person] Start: 2025-08-27T09:00:00.000Z
+Calendar.tsx:575   Parsed hour: 5 minute: 0
+Calendar.tsx:581   Final time string: 5:00 AM
+Calendar.tsx:570 🕒 Processing event time: ADP WFM Labor Meeting Start: 2025-08-27T11:00:00.000Z
+Calendar.tsx:575   Parsed hour: 7 minute: 0
+Calendar.tsx:581   Final time string: 7:00 AM
+Calendar.tsx:570 🕒 Processing event time: GM Monthly Meeting Start: 2025-08-27T13:00:00.000Z
+Calendar.tsx:575   Parsed hour: 9 minute: 0
+Calendar.tsx:581   Final time string: 9:00 AM
+Calendar.tsx:570 🕒 Processing event time: L&D Dataverse Start: 2025-08-27T15:00:00.000Z
+Calendar.tsx:575   Parsed hour: 11 minute: 0
+Calendar.tsx:581   Final time string: 11:00 AM
+Calendar.tsx:1277 📍 WEEK POSITIONING: L&D Dataverse at 11:00 AM -> hour:11 minute:0 -> position:528px
+Calendar.tsx:1277 📍 WEEK POSITIONING: Training Updates - Omar [In-person] at 5:00 AM -> hour:5 minute:0 -> position:240px
+Calendar.tsx:1277 📍 WEEK POSITIONING: ADP WFM Labor Meeting at 7:00 AM -> hour:7 minute:0 -> position:336px
+Calendar.tsx:1277 📍 WEEK POSITIONING: GM Monthly Meeting at 9:00 AM -> hour:9 minute:0 -> position:432px
+Calendar.tsx:570 🕒 Processing event time: FO summit Start: 2025-08-25T12:00:00.000Z
+Calendar.tsx:575   Parsed hour: 8 minute: 0
+Calendar.tsx:581   Final time string: 8:00 AM
+Calendar.tsx:570 🕒 Processing event time: L&D Dataverse Start: 2025-08-25T15:00:00.000Z
+Calendar.tsx:575   Parsed hour: 11 minute: 0
+Calendar.tsx:581   Final time string: 11:00 AM
+Calendar.tsx:570 🕒 Processing event time: FO summit Start: 2025-08-25T12:00:00.000Z
+Calendar.tsx:575   Parsed hour: 8 minute: 0
+Calendar.tsx:581   Final time string: 8:00 AM
+Calendar.tsx:570 🕒 Processing event time: L&D Dataverse Start: 2025-08-25T15:00:00.000Z
+Calendar.tsx:575   Parsed hour: 11 minute: 0
+Calendar.tsx:581   Final time string: 11:00 AM
+Calendar.tsx:1277 📍 WEEK POSITIONING: L&D Dataverse at 11:00 AM -> hour:11 minute:0 -> position:528px
+Calendar.tsx:1277 📍 WEEK POSITIONING: FO summit at 8:00 AM -> hour:8 minute:0 -> position:384px
+Calendar.tsx:570 🕒 Processing event time: FW: Meet with Construction team and Villa Operations Team Start: 2025-08-26T11:00:00.000Z
+Calendar.tsx:575   Parsed hour: 7 minute: 0
+Calendar.tsx:581   Final time string: 7:00 AM
+Calendar.tsx:570 🕒 Processing event time: HK/FD Meet Start: 2025-08-26T14:00:00.000Z
+Calendar.tsx:575   Parsed hour: 10 minute: 0
+Calendar.tsx:581   Final time string: 10:00 AM
+Calendar.tsx:570 🕒 Processing event time: L&D Dataverse Start: 2025-08-26T15:00:00.000Z
+Calendar.tsx:575   Parsed hour: 11 minute: 0
+Calendar.tsx:581   Final time string: 11:00 AM
+Calendar.tsx:1277 📍 WEEK POSITIONING: HK/FD Meet at 10:00 AM -> hour:10 minute:0 -> position:480px
+Calendar.tsx:1277 📍 WEEK POSITIONING: L&D Dataverse at 11:00 AM -> hour:11 minute:0 -> position:528px
+Calendar.tsx:1277 📍 WEEK POSITIONING: FW: Meet with Construction team and Villa Operations Team at 7:00 AM -> hour:7 minute:0 -> position:336px
+Calendar.tsx:570 🕒 Processing event time: Training Updates - Omar [In-person] Start: 2025-08-27T09:00:00.000Z
+Calendar.tsx:575   Parsed hour: 5 minute: 0
+Calendar.tsx:581   Final time string: 5:00 AM
+Calendar.tsx:570 🕒 Processing event time: ADP WFM Labor Meeting Start: 2025-08-27T11:00:00.000Z
+Calendar.tsx:575   Parsed hour: 7 minute: 0
+Calendar.tsx:581   Final time string: 7:00 AM
+Calendar.tsx:570 🕒 Processing event time: GM Monthly Meeting Start: 2025-08-27T13:00:00.000Z
+Calendar.tsx:575   Parsed hour: 9 minute: 0
+Calendar.tsx:581   Final time string: 9:00 AM
+Calendar.tsx:570 🕒 Processing event time: L&D Dataverse Start: 2025-08-27T15:00:00.000Z
+Calendar.tsx:575   Parsed hour: 11 minute: 0
+Calendar.tsx:581   Final time string: 11:00 AM
+Calendar.tsx:1277 📍 WEEK POSITIONING: L&D Dataverse at 11:00 AM -> hour:11 minute:0 -> position:528px
+Calendar.tsx:1277 📍 WEEK POSITIONING: Training Updates - Omar [In-person] at 5:00 AM -> hour:5 minute:0 -> position:240px
+Calendar.tsx:1277 📍 WEEK POSITIONING: ADP WFM Labor Meeting at 7:00 AM -> hour:7 minute:0 -> position:336px
+Calendar.tsx:1277 📍 WEEK POSITIONING: GM Monthly Meeting at 9:00 AM -> hour:9 minute:0 -> position:432px

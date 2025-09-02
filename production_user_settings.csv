@@ -1,0 +1,7 @@
+id,user_id,email_notifications,morning_briefing,lunch_reminder,end_of_day_summary,meeting_reminders,task_deadline_alerts,ai_insights,working_hours_start,working_hours_end,urgent_only,updated_at,outlook_calendar_url,outlook_calendar_enabled
+2877185e-893a-4474-932d-e00a0f0464a3,b671eb82-abc1-424f-8bdf-30cc749e5ec9,t,t,f,t,t,t,t,09:00,18:00,f,2025-08-20 11:45:02.451,,f
+28bd76cb-c7d4-4406-b698-d9cbf6bd02fb,3003d931-a3da-497c-9879-4abc9eee2454,t,t,t,t,t,t,t,07:00,18:00,f,2025-08-22 17:11:38.731,https://outlook.office365.com/owa/calendar/b5d6456bb5c4478bb40c768f638393f3@wgresorts.com/4469d49e611143a4b6e044e1880689c717334766787346461115/calendar.ics,t
+411c9ea5-1c53-493a-87a1-5cad9278b686,fa61166b-1715-4ac7-8d40-e701475c9e2f,t,t,t,t,t,t,t,07:00,18:00,f,2025-08-22 17:28:35.14,,f
+5e09be25-e5e5-4aaf-9655-d13c298948b4,0552ab10-1b7f-47fc-954c-d80119749d49,t,t,f,t,t,t,t,09:00,18:00,f,2025-08-25 14:47:21.581,https://outlook.office365.com/owa/calendar/4ae70297e19d4917807095aa3e99d57c@westgateresorts.com/61cb8a7274594897b5a18ff8551d8cf23818052303475511647/calendar.ics,t
+ed2b6ff9-cc97-4e96-975b-289c09edda43,dde53e65-d861-4340-b0a6-3417e0e7b290,t,t,t,t,t,t,t,05:00,18:00,f,2025-08-26 01:54:07.152,https://outlook.office365.com/owa/calendar/fa64fc84f85b481691e67cc18880ad4f@westgateresorts.com/badf08ea0d8049aba160807e8167517d12023564849477253846/calendar.ics,t
+af0a6c81-e8b8-49da-a0f2-bb6e93a1148e,3ebabc74-40a8-4ac8-b616-9d549317f9cd,t,t,f,t,t,t,t,09:00,18:00,f,2025-08-27 12:44:02.539904,,f
