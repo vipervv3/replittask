@@ -1,0 +1,71 @@
+ServiceWorkerRegistration {installing: null, waiting: null, active: ServiceWorker, navigationPreload: NavigationPreloadManager, scope: 'https://taskai-nine.vercel.app/', …}
+index-hbMKJP9s.js:487 📊 Storage usage: 0% (0MB used of 2048MB)
+index-hbMKJP9s.js:487 🔄 Checking for incomplete recordings to recover...
+index-hbMKJP9s.js:487 🔄 Recovery complete: 0 recordings recovered
+index-hbMKJP9s.js:487 🆘 Checking emergency backups...
+index-hbMKJP9s.js:487 🆘 Emergency recovery complete: 0 recordings recovered
+index-hbMKJP9s.js:438  GET https://taskai-nine.vercel.app/api/auth/me 404 (Not Found)
+(anonymous) @ index-hbMKJP9s.js:438
+(anonymous) @ index-hbMKJP9s.js:438
+fy @ index-hbMKJP9s.js:40
+zc @ index-hbMKJP9s.js:40
+pC @ index-hbMKJP9s.js:40
+Eo @ index-hbMKJP9s.js:38
+Pq @ index-hbMKJP9s.js:40
+qo @ index-hbMKJP9s.js:40
+G$ @ index-hbMKJP9s.js:40
+j @ index-hbMKJP9s.js:25
+T @ index-hbMKJP9s.js:25
+index-hbMKJP9s.js:438 AuthProvider rendering...
+index-hbMKJP9s.js:596 Showing login page...
+login:1 <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes">
+login:89 PWA: Install prompt available
+login:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+index-hbMKJP9s.js:596  POST https://taskai-nine.vercel.app/api/auth/login 404 (Not Found)
+mutationFn @ index-hbMKJP9s.js:596
+fn @ index-hbMKJP9s.js:48
+g @ index-hbMKJP9s.js:48
+start @ index-hbMKJP9s.js:48
+execute @ index-hbMKJP9s.js:48
+await in execute
+mutate @ index-hbMKJP9s.js:48
+(anonymous) @ index-hbMKJP9s.js:48
+m @ index-hbMKJP9s.js:596
+(anonymous) @ index-hbMKJP9s.js:493
+await in (anonymous)
+qW @ index-hbMKJP9s.js:37
+KW @ index-hbMKJP9s.js:37
+GW @ index-hbMKJP9s.js:37
+FP @ index-hbMKJP9s.js:37
+e$ @ index-hbMKJP9s.js:37
+(anonymous) @ index-hbMKJP9s.js:37
+SN @ index-hbMKJP9s.js:40
+SI @ index-hbMKJP9s.js:37
+l0 @ index-hbMKJP9s.js:37
+Z1 @ index-hbMKJP9s.js:37
+u7 @ index-hbMKJP9s.js:37
+index-hbMKJP9s.js:596  POST https://taskai-nine.vercel.app/api/auth/login 404 (Not Found)
+mutationFn @ index-hbMKJP9s.js:596
+fn @ index-hbMKJP9s.js:48
+g @ index-hbMKJP9s.js:48
+start @ index-hbMKJP9s.js:48
+execute @ index-hbMKJP9s.js:48
+await in execute
+mutate @ index-hbMKJP9s.js:48
+(anonymous) @ index-hbMKJP9s.js:48
+m @ index-hbMKJP9s.js:596
+(anonymous) @ index-hbMKJP9s.js:493
+await in (anonymous)
+qW @ index-hbMKJP9s.js:37
+KW @ index-hbMKJP9s.js:37
+GW @ index-hbMKJP9s.js:37
+FP @ index-hbMKJP9s.js:37
+e$ @ index-hbMKJP9s.js:37
+(anonymous) @ index-hbMKJP9s.js:37
+SN @ index-hbMKJP9s.js:40
+SI @ index-hbMKJP9s.js:37
+l0 @ index-hbMKJP9s.js:37
+Z1 @ index-hbMKJP9s.js:37
+u7 @ index-hbMKJP9s.js:37
+index-hbMKJP9s.js:487 📱 App went to background - recording continues with enhanced backup
+index-hbMKJP9s.js:487 📱 App returned to foreground - checking recording integrity
