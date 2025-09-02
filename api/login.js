@@ -1,37 +1,16 @@
-// Login endpoint for Vercel
-export default function handler(request, response) {
-  // Handle CORS
-  response.setHeader('Access-Control-Allow-Origin', '*');
-  response.setHeader('Access-Control-Allow-Methods', 'POST, OPTIONS');
-  response.setHeader('Access-Control-Allow-Headers', 'Content-Type');
-
-  if (request.method === 'OPTIONS') {
-    return response.status(200).end();
+export default function handler(req, res) {
+  if (req.method !== 'POST') {
+    return res.status(405).json({ error: 'Method not allowed' });
   }
-
-  if (request.method !== 'POST') {
-    return response.status(405).json({ error: 'Method not allowed' });
-  }
-
-  const { email, password } = request.body || {};
   
-  if (!email || !password) {
-    return response.status(400).json({ error: "Email and password required" });
-  }
-
-  // Test credentials
+  const { email, password } = req.body;
+  
   if (email === 'omar_braham@wgresorts.com' && password === 'test123') {
-    return response.status(200).json({ 
-      success: true,
-      user: { 
-        id: '1', 
-        email: email, 
-        name: 'Omar Braham',
-        username: 'omar_braham'
-      }, 
+    return res.status(200).json({ 
+      user: { id: '1', email, name: 'Omar Braham' }, 
       message: "Login successful" 
     });
   }
-
-  return response.status(401).json({ error: "Invalid credentials" });
+  
+  return res.status(401).json({ error: "Invalid credentials" });
 }
