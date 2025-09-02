@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "buildCommand": "vite build",
+  "outputDirectory": "client/dist",
+  "framework": "vite",
+  "builds": [
+    {
+      "src": "server/index.ts",
+      "use": "@vercel/node"
+    }
+  ],
+  "functions": {
+    "server/index.ts": {
+      "includeFiles": "server/**"
+    }
+  },
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "/server/index.ts"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/client/dist/$1"
+    }
+  ]
+}
