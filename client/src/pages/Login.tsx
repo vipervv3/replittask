@@ -77,7 +77,7 @@ export default function Login() {
         ? { email: data.email, password: data.password, name: data.name || data.email.split('@')[0] }
         : { email: data.email, password: data.password };
         
-      return fetch(`/api/auth`, {
+      return fetch(`/api/${isRegistering ? 'register' : 'login'}`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
