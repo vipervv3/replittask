@@ -1,6 +1,6 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
-import { storage } from '../../server/storage';
-import { authService } from '../../server/auth';
+import { neon } from '@neondatabase/serverless';
+import bcrypt from 'bcrypt';
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   res.setHeader('Access-Control-Allow-Origin', '*');
@@ -22,15 +22,44 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       return res.status(400).json({ error: "Email, password, and name are required" });
     }
 
-    const user = await authService.register({ email, password, name }, storage);
-    
-    if (!user) {
-      return res.status(400).json({ error: "Registration failed - user may already exist" });
+    if (!process.env.DATABASE_URL) {
+      return res.status(500).json({ error: "Database not configured" });
     }
 
-    return res.status(201).json({ user, message: "Registration successful" });
-  } catch (error) {
+    const sql = neon(process.env.DATABASE_URL);
+    
+    // Check if user already exists
+    const existingUsers = await sql`
+      SELECT id FROM users WHERE email = ${email} LIMIT 1
+    `;
+
+    if (existingUsers.length > 0) {
+      return res.status(400).json({ error: "User already exists" });
+    }
+
+    // Hash password
+    const hashedPassword = await bcrypt.hash(password, 10);
+
+    // Create new user
+    const newUsers = await sql`
+      INSERT INTO users (email, password, name, role, created_at)
+      VALUES (${email}, ${hashedPassword}, ${name}, 'user', NOW())
+      RETURNING id, email, name, role, created_at
+    `;
+
+    if (newUsers.length === 0) {
+      return res.status(500).json({ error: "Failed to create user" });
+    }
+
+    return res.status(201).json({ 
+      user: newUsers[0], 
+      message: "Registration successful" 
+    });
+  } catch (error: any) {
     console.error("Registration error:", error);
-    return res.status(500).json({ error: "Registration failed" });
+    return res.status(500).json({ 
+      error: "Registration failed",
+      details: process.env.NODE_ENV === 'development' ? error.message : undefined
+    });
   }
 }
