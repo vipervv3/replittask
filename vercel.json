@@ -7,19 +7,12 @@
       "config": {
         "distDir": "dist/public"
       }
-    },
-    {
-      "src": "server/index.ts",
-      "use": "@vercel/node",
-      "config": {
-        "includeFiles": ["server/**", "shared/**"]
-      }
     }
   ],
   "routes": [
     {
       "src": "/api/(.*)",
-      "dest": "/server/index.ts"
+      "dest": "/api/[...slug].ts"
     },
     {
       "src": "/assets/(.*)",
