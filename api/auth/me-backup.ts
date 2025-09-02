@@ -1,4 +1,5 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
+import { verifyToken } from './lib/jwt';
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   res.setHeader('Access-Control-Allow-Origin', '*');
@@ -22,21 +23,13 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     }
 
     const token = authHeader.substring(7);
-    
-    try {
-      // Decode the simple token
-      const tokenData = JSON.parse(Buffer.from(token, 'base64').toString());
-      
-      // Check expiration
-      if (tokenData.exp < Date.now()) {
-        return res.status(401).json({ error: "Token expired" });
-      }
+    const user = verifyToken(token);
 
-      return res.status(200).json({ user: tokenData.user });
-    } catch {
+    if (!user) {
       return res.status(401).json({ error: "Invalid token" });
     }
 
+    return res.status(200).json({ user });
   } catch (error) {
     console.error("Auth check error:", error);
     return res.status(500).json({ error: "Authentication check failed" });
